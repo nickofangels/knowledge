@@ -4,8 +4,10 @@ This repo is a collection of knowledge base domains. Each domain is a subdirecto
 
 ## Structure
 
-- Each subdirectory is a standalone domain with its own `CLAUDE.md`, procedures, and content.
-- `master/` is special — it maintains an index of all domains. See `master/CLAUDE.md`.
+- Each subdirectory is a standalone domain with its own `CLAUDE.md`, procedures, content, and git repo.
+- `master-index.md` — index of all domains (article counts, key topics).
+- `scripts/` — shared utilities.
+- `server.py` — local server.
 - Sibling domains can read each other's `wiki/_index.md` but never write to each other.
 
 ## Creating a New Domain
@@ -37,3 +39,15 @@ New domains are subdirectories of this repo, not separate repositories.
    - Describe what is known, never prescribe what to do
    - Compilation integrity: document what sources say, not what you infer
    - Never fabricate sources, never silently overwrite conflicting info
+
+## Update Index
+
+1. Read `*/wiki/_index.md` for all domain folders.
+2. Write `master-index.md`: one section per domain with article count, link to its `_index.md`, and key topics listed.
+3. Note emerging clusters: if a domain has several articles sharing a prefix or theme that isn't a subtopic of the domain's core subject, mention it as a candidate for its own domain. Don't prescribe — just surface the pattern.
+4. Only write to `master-index.md`. Never write anywhere else.
+5. Skip domains with no `wiki/_index.md`.
+
+## Misplaced Content
+
+This top-level repo has no `raw/` or `wiki/`. If the user pastes research or article content here, do not process it. Ask which domain it belongs to, then direct them to open that domain's workspace so the content can be saved to `raw/` and compiled there.
