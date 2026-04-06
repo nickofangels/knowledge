@@ -4,7 +4,7 @@ This repo is a collection of knowledge base domains. Each domain is a subdirecto
 
 ## Structure
 
-- Each subdirectory is a standalone domain with its own `CLAUDE.md`, procedures, content, and git repo.
+- Each subdirectory is a git submodule pointing to its own private repo.
 - `master-index.md` — index of all domains (article counts, key topics).
 - `scripts/` — shared utilities.
 - `server.py` — local server.
@@ -12,10 +12,11 @@ This repo is a collection of knowledge base domains. Each domain is a subdirecto
 
 ## Creating a New Domain
 
-New domains are subdirectories of this repo, not separate repositories.
+New domains are private repos added as submodules.
 
-1. Create the directory: `knowledge/<domain-name>/`
-2. Create the required structure:
+1. Create a private repo on GitHub: `knowledge-<domain-name>`
+2. Add as submodule: `git submodule add <repo-url> <domain-name>`
+3. Create the required structure:
    ```
    <domain-name>/
    ├── CLAUDE.md                      # Domain instructions
@@ -32,8 +33,8 @@ New domains are subdirectories of this repo, not separate repositories.
            ├── deep-research.md       # How to run deep research
            └── knowledge-check.md     # How to audit the wiki
    ```
-3. Adapt `CLAUDE.md` and procedures from an existing domain (e.g. `personal-health/`). Domain-specific sections (evidence tiers, source quality labels, prescriptive language examples) should be tailored to the new domain's subject matter.
-4. The core rules carry across all domains:
+4. Adapt `CLAUDE.md` and procedures from an existing domain (e.g. `personal-health/`). Domain-specific sections (evidence tiers, source quality labels, prescriptive language examples) should be tailored to the new domain's subject matter.
+5. The core rules carry across all domains:
    - `raw/` is source material, `wiki/` is compiled output
    - One concept per article, flat wiki directory
    - Describe what is known, never prescribe what to do
@@ -47,6 +48,28 @@ New domains are subdirectories of this repo, not separate repositories.
 3. Note emerging clusters: if a domain has several articles sharing a prefix or theme that isn't a subtopic of the domain's core subject, mention it as a candidate for its own domain. Don't prescribe — just surface the pattern.
 4. Only write to `master-index.md`. Never write anywhere else.
 5. Skip domains with no `wiki/_index.md`.
+
+## Future Research
+
+`future-research.md` — cross-domain questions and hypotheses to investigate. When the user identifies a new research question spanning domains, append it here as a bullet. Keep entries terse: bold label, one-line hypothesis, key unknowns.
+
+## Submodule Workflow
+
+Domains are git submodules pointing to private repos. This allows selective open-sourcing while keeping everything accessible from one clone.
+
+- Clone: `git clone --recurse-submodules <url>`
+- Pull: `git pull && git submodule update --remote --merge`
+- New domain: create private repo, then `git submodule add <url> <domain-name>`
+- Auto-commit script handles both layers (domain commits + parent pointer updates)
+- Pointer conflicts (single-user repo): `git checkout --theirs <domain> && git add <domain>`
+
+## Boundaries
+
+**Always do (autonomous):** read any domain's `wiki/_index.md`, run compile/health-check within a domain, update `master-index.md`
+
+**Ask first:** git push, creating a new domain/submodule, deleting wiki articles, modifying shared scripts
+
+**Never do:** write to a sibling domain's files, delete a submodule, force-push any repo, commit secrets
 
 ## Misplaced Content
 

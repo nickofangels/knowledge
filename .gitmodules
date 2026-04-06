@@ -1,0 +1,27 @@
+[submodule "adhd-design"]
+	path = adhd-design
+	url = https://github.com/nickofangels/knowledge-adhd-design.git
+[submodule "agent-workflows"]
+	path = agent-workflows
+	url = https://github.com/nickofangels/knowledge-agent-workflows.git
+[submodule "claude-code"]
+	path = claude-code
+	url = https://github.com/nickofangels/knowledge-claude-code.git
+[submodule "personal-development"]
+	path = personal-development
+	url = https://github.com/nickofangels/knowledge-personal-development.git
+[submodule "personal-finance"]
+	path = personal-finance
+	url = https://github.com/nickofangels/knowledge-personal-finance.git
+[submodule "personal-health"]
+	path = personal-health
+	url = https://github.com/nickofangels/knowledge-personal-health.git
+[submodule "physical-performance"]
+	path = physical-performance
+	url = https://github.com/nickofangels/knowledge-physical-performance.git
+[submodule "singing"]
+	path = singing
+	url = https://github.com/nickofangels/singing.git
+[submodule "web-development"]
+	path = web-development
+	url = https://github.com/nickofangels/knowledge-web-development.git
