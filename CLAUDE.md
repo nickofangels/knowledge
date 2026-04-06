@@ -21,6 +21,7 @@ New domains are private repos added as submodules.
    <domain-name>/
    ├── CLAUDE.md                      # Domain instructions
    ├── evidence.md                    # Dated observations log
+   ├── working-model.md               # Personal conclusions with logical chains
    ├── raw/                           # Source material
    ├── wiki/
    │   ├── _index.md                  # Table of contents
@@ -31,7 +32,8 @@ New domains are private repos added as submodules.
        └── procedures/
            ├── compile.md             # How to compile raw → wiki
            ├── deep-research.md       # How to run deep research
-           └── knowledge-check.md     # How to audit the wiki
+           ├── knowledge-check.md     # How to audit the wiki
+           └── working-model.md       # How to maintain working-model.md
    ```
 4. Adapt `CLAUDE.md` and procedures from an existing domain (e.g. `personal-health/`). Domain-specific sections (evidence tiers, source quality labels, prescriptive language examples) should be tailored to the new domain's subject matter.
 5. The core rules carry across all domains:
@@ -40,6 +42,7 @@ New domains are private repos added as submodules.
    - Describe what is known, never prescribe what to do
    - Compilation integrity: document what sources say, not what you infer
    - Never fabricate sources, never silently overwrite conflicting info
+   - `working-model.md` is the only place conclusions, priorities, and action implications are permitted. Wiki articles stay non-prescriptive. Working model entries trace to wiki articles via logical chains.
 
 ## Update Index
 
