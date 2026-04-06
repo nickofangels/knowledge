@@ -71,6 +71,10 @@ Domains are git submodules pointing to private repos. This allows selective open
 
 **Never do:** write to a sibling domain's files, delete a submodule, force-push any repo, commit secrets
 
+## Working from the Parent Level
+
+When asked to compile, research, or health-check a domain from this parent repo, always `cd` into the domain's directory first. Domain procedures assume you are inside the submodule — git operations, file paths, and `_index.md` references are all domain-relative.
+
 ## Misplaced Content
 
 This top-level repo has no `raw/` or `wiki/`. If the user pastes research or article content here, do not process it. Ask which domain it belongs to, then direct them to open that domain's workspace so the content can be saved to `raw/` and compiled there.

@@ -22,6 +22,13 @@ for repo in "$KNOWLEDGE_DIR"/*/; do
     name=$(basename "$repo")
     cd "$repo"
 
+    # Ensure we're on a branch, not detached HEAD (submodule update detaches)
+    if git symbolic-ref -q HEAD >/dev/null 2>&1; then
+        : # already on a branch
+    else
+        git checkout main 2>> "$ERROR_LOG" || git checkout master 2>> "$ERROR_LOG"
+    fi
+
     # Skip if nothing changed
     if git diff --quiet HEAD 2>/dev/null && [ -z "$(git ls-files --others --exclude-standard)" ]; then
         echo "  $name: clean, skipped" >> "$LOG"
