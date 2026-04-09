@@ -25,3 +25,6 @@
 [submodule "web-development"]
 	path = web-development
 	url = https://github.com/nickofangels/knowledge-web-development.git
+[submodule "saas-design"]
+	path = saas-design
+	url = https://github.com/nickofangels/knowledge-saas-design.git
