@@ -28,3 +28,6 @@
 [submodule "saas-design"]
 	path = saas-design
 	url = https://github.com/nickofangels/knowledge-saas-design.git
+[submodule "golf"]
+	path = golf
+	url = https://github.com/nickofangels/knowledge-golf.git
