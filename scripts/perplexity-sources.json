@@ -1166,6 +1166,351 @@
     ]
   },
   {
+    "file": "ADHD-I Sleep Optimization  Deep Sleep, Cycle Engineering & Reverse-Engineered Protocols.md",
+    "title": "ADHD-I Sleep Optimization: Deep Sleep, Cycle Engineering & Reverse-Engineered Protocols",
+    "source_count": 41,
+    "sources": [
+      {
+        "num": 1,
+        "title": "ADHD doesn't just affect attention. In most patients, it shifts the entire ...",
+        "url": "https://www.facebook.com/oasisclinics/posts/adhd-doesnt-just-affect-attention-in-most-patients-it-shifts-the-entire-biologic/1460295908814428/",
+        "url_type": "other",
+        "academic": false,
+        "description": "In most patients, it shifts the entire biological clock by 90 minutes. 73 to 78% of people with ADHD..."
+      },
+      {
+        "num": 2,
+        "title": "ADHD as a circadian rhythm disorder: evidence and implications for ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12728042/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Accumulating evidence indicates that circadian rhythm dysfunction is a clinically significant and hi...",
+        "pmc_id": "PMC12728042"
+      },
+      {
+        "num": 3,
+        "title": "Are You a Night Owl? About ADHD and Late Sleep - APSARD",
+        "url": "https://apsard.org/are-you-a-night-owl-about-adhd-and-late-sleep/",
+        "url_type": "other",
+        "academic": false,
+        "description": "4. [Frontiers | ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full) - Accumulati"
+      },
+      {
+        "num": 5,
+        "title": "Chronotherapy for Circadian Rhythm Disorder, ADHD - ADDitude",
+        "url": "https://www.additudemag.com/chronotherapy-circadian-rhythm-disorder-bright-light-therapy/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Interventions for sleep and circadian health may double as low-risk, adjunctive approaches to addres..."
+      },
+      {
+        "num": 6,
+        "title": "ADHD and Sleep Disorders: Clinical Insights into Pathophysiology ...",
+        "url": "https://psychscenehub.com/psychinsights/adhd-and-sleep-disorders/",
+        "url_type": "other",
+        "academic": false,
+        "description": "This article delves into why ADHD and sleep disorders, including insomnia, frequently coexist, revea..."
+      },
+      {
+        "num": 7,
+        "title": "Sleep disorders in patients with ADHD: impact and management ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6299464/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "ADHD symptoms are associated with PLMD, extreme evening chronotype, and insomnia. Inattentive sympto...",
+        "pmc_id": "PMC6299464"
+      },
+      {
+        "num": 8,
+        "title": "How Many Sleep Cycles Per Night? 4-6 Cycles Explained | Oneironaut",
+        "url": "https://oneironauts.io/blog/how-many-sleep-cycles-per-night",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Adults need 4-6 sleep cycles per night (90-110 min each). That's 6-9 hours total. Learn how many cyc..."
+      },
+      {
+        "num": 9,
+        "title": "Sleep Cycles Explained: How to Optimize Your Sleep for Better Health",
+        "url": "https://smarttoolsdaily.com/en/articles/sleep-cycles-explained/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Understand the science of sleep cycles, learn about NREM and REM stages, discover how to time your s..."
+      },
+      {
+        "num": 10,
+        "title": "How Many REM Cycles Per Night Do You Need? - Mattress Miracle",
+        "url": "https://mattressmiracle.ca/blogs/mattress-miracle-blog/how-many-rem-cycles-per-night",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Wondering if you are getting enough REM? Learn why 4-6 cycles is the target, why \"deep sleep\" matter..."
+      },
+      {
+        "num": 11,
+        "title": "The Profound Interplay Between Sleep and Cognitive Function",
+        "url": "https://creyos.com/blog/sleep-and-cognitive-function",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "While slow wave sleep is important for declarative memory, REM sleep is thought to be more involved ..."
+      },
+      {
+        "num": 12,
+        "title": "Slow wave sleep supports the reorganisation of episodic memory ...",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.03.24.644966v1.full",
+        "url_type": "other",
+        "academic": false,
+        "description": "Models of memory consolidation propose that newly acquired memory traces undergo reorganisation duri..."
+      },
+      {
+        "num": 13,
+        "title": "Slow-wave sleep as a key player in offline memory processing",
+        "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1620544/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "Slow-wave sleep (SWS) plays a pivotal role in memory consolidation, and electroencephalography (EEG)..."
+      },
+      {
+        "num": 14,
+        "title": "Sleep and Executive Function in ADHD",
+        "url": "https://www.psychiatrictimes.com/view/sleep-and-executive-function-adhd",
+        "url_type": "other",
+        "academic": false,
+        "description": "A study has found that induction of slow waves during early non-rapid eye movement sleep may improve..."
+      },
+      {
+        "num": 15,
+        "title": "Sleep Spindle Characteristics in Children with Neurodevelopmental ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4958463/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Strong empirical evidence indicates that sleep spindles facilitate the plasticity which supports lea...",
+        "pmc_id": "PMC4958463"
+      },
+      {
+        "num": 16,
+        "title": "NREM2 and Sleep Spindles Are Instrumental to the Consolidation of ...",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1002429",
+        "url_type": "plos",
+        "academic": true,
+        "description": "We conclude that NREM2 sleep—and spindles in particular—contribute critically to the consolidation o..."
+      },
+      {
+        "num": 17,
+        "title": "Association of Sleep Spindle Rate With Memory Consolidation in ...",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000210232",
+        "url_type": "other",
+        "academic": false,
+        "description": "Sleep spindles have been most strongly linked to the cognitive process of sleep-dependent memory con..."
+      },
+      {
+        "num": 18,
+        "title": "REM Sleep, Emotional Regulation and Prefrontal Cortex",
+        "url": "https://www.psychologytoday.com/us/blog/dream-catcher/201112/rem-sleep-emotional-regulation-and-prefrontal-cortex",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "REM sleep is associated with a massive reduction in noradrenergic tone in forebrain centers includin..."
+      },
+      {
+        "num": 19,
+        "title": "Adults With Untreated ADHD May Spend Longer in Deep Sleep Stage",
+        "url": "https://www.hmpgloballearningnetwork.com/site/pcn/news/adults-untreated-adhd-may-spend-longer-deep-sleep-stage",
+        "url_type": "other",
+        "academic": false,
+        "description": "Adults living with untreated attention-deficit/hyperactivity disorder (ADHD) may spend more time in ..."
+      },
+      {
+        "num": 20,
+        "title": "Untreated Adults With ADHD Spend Longer in Slow Wave Sleep ...",
+        "url": "https://www.psychiatryadvisor.com/news/untreated-adults-with-adhd-spend-longer-slow-wave-sleep-than-controls/",
+        "url_type": "other",
+        "academic": false,
+        "description": "The duration of slow wave sleep was longer in drug-naïve adults with ADHD than in non-ADHD controls,..."
+      },
+      {
+        "num": 21,
+        "title": "ADHD: Attention difficulties are linked to the intrusion of sleep waves ...",
+        "url": "https://parisbraininstitute.org/news/adhd-attention-difficulties-are-linked-intrusion-sleep-waves-during-wakefulness",
+        "url_type": "other",
+        "academic": false,
+        "description": "The result: “Adults with ADHD show a significantly higher density of slow waves, which are usually o..."
+      },
+      {
+        "num": 22,
+        "title": "Sleep-like Slow Waves During Wakefulness Mediate Attention and ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839570/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "The ADHD group exhibited significantly higher slow wave activity which correlated with increased obj...",
+        "pmid": "41839570"
+      },
+      {
+        "num": 23,
+        "title": "ADHD and Sleep Problems: Polysomnographic Insights",
+        "url": "https://www.sleepwakeadvisor.com/news/adhd-and-sleep-problems-polysomnogram-markers/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Although ADHD and sleep problems are commonly comorbid, the polysomnographic biomarkers of these sle..."
+      },
+      {
+        "num": 24,
+        "title": "Polysomnographic insights into the attention-deficit/hyperactivity ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12713972/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Polysomnographic studies (PSGs) on sleep disruptions in ADHD have yielded inconsistent results. Few ...",
+        "pmc_id": "PMC12713972"
+      },
+      {
+        "num": 25,
+        "title": "Sleep disturbances in children and adolescents with attention-deficit ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12620782/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Children with the combined type tend to exhibit higher overall rates of sleep problems, whereas thos...",
+        "pmc_id": "PMC12620782"
+      },
+      {
+        "num": 26,
+        "title": "Is there a specific polysomnographic sleep pattern in ...",
+        "url": "https://www.giulemanidaibambini.org/pseudo-adhd/en/sleep/Kirov_R_2004_en.pdf",
+        "url_type": "other",
+        "academic": false,
+        "description": "27. [[PDF] ADHD, Circadian Rhythm, Sleep & Health](https://adhd.dk/wp-content/uploads/sites/2/2018/01/ADHD-sleep-and-health-Sandra-Kooij.pdf)"
+      },
+      {
+        "num": 28,
+        "title": "Opposite Impact of REM Sleep on Neurobehavioral Functioning in ...",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.02059/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "Rapid eye movement (REM) sleep has been shown to be related to many adaptive cognitive and behaviora..."
+      },
+      {
+        "num": 29,
+        "title": "Brain Activity in Sleep May Impact Emotional Disturbances in ...",
+        "url": "https://sleepreviewmag.com/sleep-health/sleep-whole-body/brain/brain-activity-in-sleep-may-impact-emotional-disturbances-in-children-with-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Sleep consolidates emotional memories in healthy children but not in children with attention-deficit..."
+      },
+      {
+        "num": 30,
+        "title": "What Sleep Patterns Reveal About Mental Health: A Look at New ...",
+        "url": "https://www.adhdevidence.org/blog/what-sleep-patterns-reveal-about-mental-health-a-look-at-new-research",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "People with ADHD showed increased slow-spindle activity, meaning those brief bursts of NREM activity..."
+      },
+      {
+        "num": 31,
+        "title": "Resting-state memory consolidation in Attention-Deficit/Hyperactivity ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12157056/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Together, these data suggest that memory consolidation during sleep may be impaired in ADHD, and tha...",
+        "pmc_id": "PMC12157056"
+      },
+      {
+        "num": 32,
+        "title": "Developmental changes of sleep spindles and their impact ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6492121/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Sleep spindles are related to sleep‐dependent memory consolidation and general cognitive abilities. ...",
+        "pmc_id": "PMC6492121"
+      },
+      {
+        "num": 33,
+        "title": "Why Your States of Mind Shift Every 90 Minutes & What to Do",
+        "url": "https://ahead-app.com/blog/Mindfulness/why-your-states-of-mind-shift-every-90-minutes-what-to-do",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Here's what's happening in your brain: During each 90-minute cycle, your mental energy peaks for abo..."
+      },
+      {
+        "num": 34,
+        "title": "ADHD-Friendly Strategies for On-Time Wake-Ups - Harold Meyer",
+        "url": "https://adhdfocusforward.substack.com/p/adhd-friendly-strategies-for-on-time",
+        "url_type": "other",
+        "academic": false,
+        "description": "Bright light (10,000 lux) immediately upon waking is one of the most effective interventions for sle..."
+      },
+      {
+        "num": 35,
+        "title": "How Many Hours Should an ADHD Person Sleep? - Dr. Lana Ferris",
+        "url": "https://drlanaferris.com/2025/11/25/how-many-hours-should-an-adhd-person-sleep/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Adults with ADHD should aim for seven to nine hours of restful sleep each night to support focus, me..."
+      },
+      {
+        "num": 36,
+        "title": "The ADHD-Sleep-Burnout Triangle: Understanding the Cycle",
+        "url": "https://adhdspecialist.com/post/the-adhd-sleep-burnout-triangle-understanding-the-cycle",
+        "url_type": "other",
+        "academic": false,
+        "description": "Are you struggling to Sleep with ADHD? Learn about the triangle between ADHD symptoms, sleep problem..."
+      },
+      {
+        "num": 37,
+        "title": "Sleep deprivation: Impact on cognitive performance - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Today, prolonged wakefulness is a widespread phenomenon. Nevertheless, in the field of sleep and wak...",
+        "pmc_id": "PMC2656292"
+      },
+      {
+        "num": 38,
+        "title": "Circadian Rhythm...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290714/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Attention-deficit hyperactivity disorder (ADHD) is notorious for its debilitating consequences and e...",
+        "pmc_id": "PMC5290714"
+      },
+      {
+        "num": 39,
+        "title": "Ripple Effects Of Delayed...",
+        "url": "https://www.additudemag.com/how-to-fix-circadian-rhythm-staying-up-late-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Research suggests that ADHD night owls should reset their internal clocks. Here’s how to fix circadi..."
+      },
+      {
+        "num": 40,
+        "title": "Effects of chronotherapy on circadian rhythm and ADHD ...",
+        "url": "https://www.caddra.ca/effects-of-chronotherapy-on-circadian-rhythm-and-adhd-symptoms-in-adults/",
+        "url_type": "other",
+        "academic": false,
+        "description": "41. [Correcting Delayed Circadian Phase with Bright Light Therapy ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC7959333/) - Attention-deficit/hyperactivity disorder (ADHD) is a common condition with c"
+      },
+      {
+        "num": 42,
+        "title": "Why Mornings Are Hard For Some ADHD Brains—And What Helps",
+        "url": "https://www.theladdermethod.com/blog/why-mornings-are-hard-for-some-adhd-brains-and-what-helps",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Mornings prove difficult for many individuals with ADHD due to delayed internal circadian rhythms, n..."
+      },
+      {
+        "num": 43,
+        "title": "The perfect sleep routine for ADHD brains: 10-3-2-1-0 - Inflow",
+        "url": "https://www.getinflow.io/post/sleep-better-with-adhd-the-103210-routine",
+        "url_type": "other",
+        "academic": false,
+        "description": "If you're having trouble sleeping and have ADHD, consider trying the 10-3-2-1-0 routine. This routin..."
+      },
+      {
+        "num": 44,
+        "title": "Sleep disorders in adult ADHD: a key feature",
+        "url": "https://old.jpsychopathol.it/wp-content/uploads/2016/05/05_Art_Orig_Salerno1.pdf",
+        "url_type": "other",
+        "academic": false,
+        "description": ""
+      }
+    ]
+  },
+  {
     "file": "Alcohol, Mast Cells & Histamine  Mechanisms, Dose-Response, and Beverage Comparisons.md",
     "title": "Alcohol, Mast Cells & Histamine: Mechanisms, Dose-Response, and Beverage Comparisons",
     "source_count": 36,
@@ -16317,6 +16662,448 @@
         "url_type": "other",
         "academic": false,
         "description": "51. [Zone 2 vs Zone 5 for Mitochondria biogenesis. : r/PeterAttia - Reddit](https://www.reddit.com/r/PeterAttia/comments/1d2d68v/zone_2_vs_zone_5_for_mitochondria_biogenesis/) - A large consistent vol"
+      }
+    ]
+  },
+  {
+    "file": "hEDS Neck  Supernatural Strength & Resilience Protocol.md",
+    "title": "hEDS Neck: Supernatural Strength & Resilience Protocol",
+    "source_count": 53,
+    "sources": [
+      {
+        "num": 1,
+        "title": "Craniocervical instability in patients with Ehlers-Danlos syndrome",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1529943022008749",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "Ehlers-Danlos syndrome (EDS) is a rare hereditary condition that can result in ligamentous laxity an..."
+      },
+      {
+        "num": 2,
+        "title": "Cranio-Cervical Instability and Hypermobility - The Fascia Institute",
+        "url": "https://fasciainstitute.org/cranio-cervical-instability-and-hypermobility/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Cranio-cervical instability (CCI) is a significant concern for individuals with hypermobility and Eh..."
+      },
+      {
+        "num": 3,
+        "title": "Cervical Instability in Hypermobile Patients: When Orthopedic ... - jospt",
+        "url": "https://www.jospt.org/do/10.2519/jospt.blog.20230917/full/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Hypermobile patients may present in orthopedic clinics complaining of neck pain, neck muscle spasm, ..."
+      },
+      {
+        "num": 4,
+        "title": "Key Ligaments of the Craniocervical Junction",
+        "url": "https://spineandbrainadvocate.com/key-ligaments-of-the-craniocervical-junction/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Alar ligaments are short, thick bands of tissue that run from the side of the dens to the occipital ..."
+      },
+      {
+        "num": 5,
+        "title": "Understanding Neck Hypermobility in HSD and EDS | The EDS Clinic",
+        "url": "https://www.eds.clinic/articles/neck-hypermobility",
+        "url_type": "other",
+        "academic": false,
+        "description": "Ehlers-Danlos neck instability refers to excessive movement or laxity in the cervical spine caused b..."
+      },
+      {
+        "num": 6,
+        "title": "Plausible impact of forward head posture on upper cervical spine ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7380784/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Any deviation to the center of gravity of the head results in an increase in cantilever loads, which...",
+        "pmc_id": "PMC7380784"
+      },
+      {
+        "num": 7,
+        "title": "Thoracic Posture and Mobility in Mechanical Neck Pain Population",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6773982/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "A significant relationship is present between thoracic kyphosis and postural alteration of the cervi...",
+        "pmc_id": "PMC6773982"
+      },
+      {
+        "num": 8,
+        "title": "Cervical kyphosis in Ehlers-Danlos syndrome - - Caring Medical",
+        "url": "https://caringmedical.com/prolotherapy-news/cervical-kyphosis-in-ehlers-danlos-syndrome/",
+        "url_type": "other",
+        "academic": false,
+        "description": "As a consequence of cervical and thoracic instability, and discopathy in EDS, there is loss of the n..."
+      },
+      {
+        "num": 9,
+        "title": "Improving Neck Strength: Don't Forget The Deep Cervical Extensors!",
+        "url": "https://theprehabguys.com/training-deep-cervical-extensors/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Deep Neck Flexors: This muscle group consists of the longus capitus, longus colli, rectus capitus, a..."
+      },
+      {
+        "num": 10,
+        "title": "Can Neck Exercises Enhance The Activation Of The Semispinalis ...",
+        "url": "https://iaom-us.com/can-neck-exercises-enhance-the-activation-of-the-semispinalis-cervicis-relative-to-the-splenius-capitus-at-specific-spinal-levels/",
+        "url_type": "other",
+        "academic": false,
+        "description": "This study attempted to demonstrate a method to activate the deep cervical extensor muscle, semispin..."
+      },
+      {
+        "num": 11,
+        "title": "Deep Neck Flexor Stabilisation Protocol - Physiopedia",
+        "url": "https://www.physio-pedia.com/Deep_Neck_Flexor_Stabilisation_Protocol",
+        "url_type": "other",
+        "academic": false,
+        "description": "After 6 weeks, the exercise group showed better improvements in disability, pain, and muscle strengt..."
+      },
+      {
+        "num": 12,
+        "title": "The Unsung Heroes of Neck Stability: Deep Neck Flexors",
+        "url": "https://nielasher.com/blogs/video-blog/deep-neck-flexors",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "The deep neck flexors consist of several key muscles, including the longus colli and longus capitis,..."
+      },
+      {
+        "num": 13,
+        "title": "The effect of therapeutic exercise on activation of the deep cervical ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1356689X09000885",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "This study investigated the effects of low load cranio-cervical flexion (C-CF) and neck flexor stren..."
+      },
+      {
+        "num": 14,
+        "title": "Can neck exercises enhance the activation of the semispinalis ...",
+        "url": "https://research.birmingham.ac.uk/en/publications/can-neck-exercises-enhance-the-activation-of-the-semispinalis-cer/",
+        "url_type": "other",
+        "academic": false,
+        "description": "This study confirmed the possibility of emphasizing the activation of the semispinalis cervicis rela..."
+      },
+      {
+        "num": 15,
+        "title": "A Deep Dive into the Four Sub occipital Muscles and Their Impact ...",
+        "url": "https://www.youtube.com/watch?v=Sm3kQ3WgHDQ",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Dr. Centeno reviews the sub occipital muscles at the back of the head and their role in creating CCI..."
+      },
+      {
+        "num": 16,
+        "title": "The effect of suboccipital muscle dysfunction on the biomechanics of ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11110322/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Anatomical studies found that the suboccipital muscle group is crucial for the movement and stabilit...",
+        "pmc_id": "PMC11110322"
+      },
+      {
+        "num": 17,
+        "title": "Effects of scapular stabilization exercise on neck posture and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4842472/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "[Purpose] The purpose of this study was to investigate the effects of scapular stabilization exercis...",
+        "pmc_id": "PMC4842472"
+      },
+      {
+        "num": 18,
+        "title": "Force Couple Between Trapezius and Serratus Anterior - Physiopedia",
+        "url": "https://www.physio-pedia.com/Force_Couple_Between_Trapezius_and_Serratus_Anterior",
+        "url_type": "other",
+        "academic": false,
+        "description": "The upper trapezius initiates movement by elevating and stabilizing the scapula's superior angle. ....."
+      },
+      {
+        "num": 20,
+        "title": "Clinical effects of deep cervical flexor muscle activation in patients ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4756018/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "DCF activation exercise was effective to alleviate pain, recover functions, and correct forward head...",
+        "pmc_id": "PMC4756018"
+      },
+      {
+        "num": 21,
+        "title": "Effect of specific deep cervical muscle exercises on functional ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6411318/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The results suggest that 6 weeks of training in both exercise groups can improve neck disability, pa...",
+        "pmc_id": "PMC6411318"
+      },
+      {
+        "num": 22,
+        "title": "Effect of long-term cervical extensor exercise program on functional ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10763386/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Long-term specific cervical extensor training was associated with a more significant clinically mean...",
+        "pmc_id": "PMC10763386"
+      },
+      {
+        "num": 23,
+        "title": "Neck Training 101 - Bret Contreras",
+        "url": "https://bretcontreras.com/neck-training-101/",
+        "url_type": "other",
+        "academic": false,
+        "description": "The machine group saw 65% increases in static neck flexion strength, 63% in static neck extension st..."
+      },
+      {
+        "num": 24,
+        "title": "Understanding hypermobility in the neck - Jeannie Di Bon",
+        "url": "https://jeanniedibon.com/fix-your-hypermobile-neck-pain/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Proprioception exercises are key · A common mistake often made with the hypermobile neck is to jump ..."
+      },
+      {
+        "num": 25,
+        "title": "Investigating the Effect of Addition of Cervical Proprioceptive ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10838574/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The aim of this study was to compare the response of the postural control system to alteration of se...",
+        "pmc_id": "PMC10838574"
+      },
+      {
+        "num": 26,
+        "title": "Cervical Spine Proprioceptive Retraining | erepsonline",
+        "url": "https://erepsonline.com/support/cervical-spine-proprioceptive-retraining/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Dizziness after concussion/mTBI has been shown to improve when manual therapy and specific sensorimo..."
+      },
+      {
+        "num": 27,
+        "title": "Physical therapy for hypermobility - The Ehlers-Danlos Support UK",
+        "url": "https://www.ehlers-danlos.org/information/physical-therapy-for-hypermobility/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Balance and proprioception as well as pain, muscle strength and quality of life were significantly i..."
+      },
+      {
+        "num": 28,
+        "title": "Building Resilience: The Vital Role of Neck Strengthening in Contact ...",
+        "url": "https://acumensportsandshoulder.com/building-resilience-the-vital-role-of-neck-strengthening-in-contact-sports/",
+        "url_type": "other",
+        "academic": false,
+        "description": "A comprehensive program should incorporate exercises targeting neck flexion, extension, and lateral ..."
+      },
+      {
+        "num": 31,
+        "title": "Deep Cervical Flexor and Sensorimotor Training for Chronic Neck ...",
+        "url": "https://clinicaltrials.gov/study/NCT07040605",
+        "url_type": "other",
+        "academic": false,
+        "description": "This randomized controlled trial aims to investigate the effectiveness of deep cervical flexor muscl..."
+      },
+      {
+        "num": 32,
+        "title": "Cervical Spine Stabilization Exercises | More Repetitions, Slower Pace",
+        "url": "https://www.youtube.com/watch?v=gV3jGS_U99Y",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "... exercises at 0:34. These 4 strengthening exercises relieve neck pain and strengthen the deep, st..."
+      },
+      {
+        "num": 33,
+        "title": "Isometric Strengthening for Cervical Spine Stabilization - YouTube",
+        "url": "https://www.youtube.com/watch?v=pds731yXRnY",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Instead of using your hand for resistance during isometric cervical spine strengthening exercise, tr..."
+      },
+      {
+        "num": 34,
+        "title": "Ways to Improve EDS Clients with Cranio-Cervical Instability (CCI ...",
+        "url": "https://www.columbiaptinmotion.com/post/ways-to-improve-eds-clients-with-cranio-cervical-instability-cci-using-sensorimotor-retraining",
+        "url_type": "other",
+        "academic": false,
+        "description": "Sensorimotor retraining program consists of step-by-step exercise implementation into a progressive ..."
+      },
+      {
+        "num": 35,
+        "title": "Resisted Cervical Extension with Head Harness and Weight Plate: Prone",
+        "url": "https://www.youtube.com/watch?v=7GVI8iYUQNY",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Spine Health Exercises: Resisted Cervical Extension with Head Harness and Weight Plate: Kneeling"
+      },
+      {
+        "num": 36,
+        "title": "Fascia and Proprioception in Hypermobility and EDS - Jeannie Di Bon",
+        "url": "https://jeanniedibon.com/fascia-and-proprioception-in-eds/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Gentle, controlled exercises like those taught in The Zebra Club focus on joint stability, proprioce..."
+      },
+      {
+        "num": 37,
+        "title": "Head Harness for Neck Exercises: Improve Neck Power",
+        "url": "https://www.fightsense.com/blog/harness-for-neck-exercises/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Head harness for neck exercises boosts neck strength. Discover top workouts, proper use, and real re..."
+      },
+      {
+        "num": 38,
+        "title": "Neck Strengthening Exercises with a Harness and Weight Plate",
+        "url": "https://www.championshipchiropractic.com/wordpress/neck-strengthening-exercises-with-a-harness-and-weight-plate/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "39. [BUILDING A STRONG NECK PART 2](https://www.ethosperformance.com.au/blog/2022/3/9/building-a-strong-neck-part-2) - The second part of this protocol was an intensification phase for the neck. Exerc"
+      },
+      {
+        "num": 40,
+        "title": "If you have hypermobility, pillow struggle is a real thing",
+        "url": "https://jeanniedibon.com/if-you-have-hypermobility-pillow-struggle-is-a-real-thing/",
+        "url_type": "other",
+        "academic": false,
+        "description": "A latex pillow material, currently has the greatest evidence in improving sleep comfort and quality,..."
+      },
+      {
+        "num": 41,
+        "title": "How to sleep with cervical neck pain - Spine Docs",
+        "url": "https://spinedocs.org/how-to-sleep-with-cervical-neck-pain/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Sleeping on your back is often the best position for cervical neck pain. It allows your spine to sta..."
+      },
+      {
+        "num": 42,
+        "title": "How to Sleep With Neck Pain: Positions That Actually Work",
+        "url": "https://limitlesspts.com/sleep-with-neck-pain-positions/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Back sleeping is generally the best position for neck pain because it allows your head, neck, and sp..."
+      },
+      {
+        "num": 43,
+        "title": "How to Sleep With Neck Pain - GoodRx",
+        "url": "https://www.goodrx.com/well-being/sleep/best-sleeping-position-for-neck-pain",
+        "url_type": "other",
+        "academic": false,
+        "description": "People who slept on their sides were less likely to report neck and back pain, according to a 2019 r..."
+      },
+      {
+        "num": 44,
+        "title": "Everything About Sleep, Hypermobility, and Ehlers Danlos Syndrome",
+        "url": "https://www.thefibroguy.com/blog/hypermobility-and-sleep/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "The Mediflow Water Pillow is one example of an adjustable water pillow; cervical pillows aid in keep..."
+      },
+      {
+        "num": 45,
+        "title": "The Best Pillow For Hypermobility & EDS",
+        "url": "https://www.groovepillows.com/blogs/blog/best-pillow-for-hypermobility",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "The best pillow for hypermobility and Ehlers-Danlos Syndrome provides extra support and an ergonomic..."
+      },
+      {
+        "num": 46,
+        "title": "Autonomic Nervous System and EDS (Ehlers-Danlos Syndrome)",
+        "url": "https://franklincardiovascular.com/autonomic-nervous-system-and-eds/",
+        "url_type": "other",
+        "academic": false,
+        "description": "49% of hypermobile EDS patients have POTS. This article covers orthostatic intolerance, coat-hanger ..."
+      },
+      {
+        "num": 47,
+        "title": "Understanding Dysautonomia & EDS | Jeannie Di Bon",
+        "url": "https://jeanniedibon.com/understanding-dysautonomia/",
+        "url_type": "other",
+        "academic": false,
+        "description": "The connection between dysautonomia and hypermobility. There are many reasons autonomic nervous syst..."
+      },
+      {
+        "num": 48,
+        "title": "Dysautonomia, POTS, and the hEDS patient with a long list of ...",
+        "url": "https://caringmedical.com/prolotherapy-news/dysautomia-ehlers-danlos-joint-hypermobility-connection/",
+        "url_type": "other",
+        "academic": false,
+        "description": "There is a strong connection between Joint Hypermobility Syndrome (JHS) and autonomic nervous system..."
+      },
+      {
+        "num": 49,
+        "title": "Association of mast-cell-related conditions with hypermobile ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9022617/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The potential connection between hEDS/HSD and MC-related disorders may be explained by the presence ...",
+        "pmc_id": "PMC9022617"
+      },
+      {
+        "num": 50,
+        "title": "Is there a connection between EDS and MCAS? - The EDS Clinic",
+        "url": "https://www.eds.clinic/articles/hypermobile-eds-and-mcas",
+        "url_type": "other",
+        "academic": false,
+        "description": "Ehlers-Danlos Syndrome (EDS) and Mast Cell Activation Syndrome (MCAS) have emerged as interconnected..."
+      },
+      {
+        "num": 51,
+        "title": "Forward head posture symptoms and complications - Hauser Neck ...",
+        "url": "https://caringmedical.com/prolotherapy-news/forward-head-posture-symptoms-and-complications-caring-medical-fort-myers/",
+        "url_type": "other",
+        "academic": false,
+        "description": "The cervical spine, because of face down-forward head posture, goes into a state of flexion (kyphosi..."
+      },
+      {
+        "num": 52,
+        "title": "Potentially Harmful Exercises - SportMedBC",
+        "url": "https://sportmedbc.com/article/potentially-harmful-exercises/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Neck hyperextensions can cause compression of the nerve roots in the neck, and are especially risky ..."
+      },
+      {
+        "num": 53,
+        "title": "Occult Hypermobility of the Craniocervical Junction: A Case Report ...",
+        "url": "https://www.jospt.org/doi/10.2519/jospt.2011.3305",
+        "url_type": "other",
+        "academic": false,
+        "description": "The literature discusses 3 primary conditions that could contribute to disruption of the overall str..."
+      },
+      {
+        "num": 54,
+        "title": "Effectiveness of Magnesium Supplementation on Sleep Quality and ...",
+        "url": "https://esmed.org/MRA/mra/article/view/5410",
+        "url_type": "other",
+        "academic": false,
+        "description": "Results: The Magnesium Condition had significant improvements compared to the Placebo Condition for ..."
+      },
+      {
+        "num": 55,
+        "title": "Examining the Effects of Supplemental Magnesium on Self ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11136869/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Supplemental magnesium is likely useful in the treatment of mild anxiety and insomnia, particularly ...",
+        "pmc_id": "PMC11136869"
+      },
+      {
+        "num": 56,
+        "title": "Should People with Ehlers-Danlos Syndrome Take a Magnesium ...",
+        "url": "https://edsnutrition.com/should-people-with-ehlers-danlos-syndrome-take-a-magnesium-supplementanswered-by-a-dietitian/",
+        "url_type": "other",
+        "academic": false,
+        "description": "There is currently not enough scientific evidence behind using magnesium to relieve muscle soreness,..."
+      },
+      {
+        "num": 57,
+        "title": "Effects of a 6-Week Strength Training of the Neck Flexors and ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6873131/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The aim of the study was to analyze the influence of a 6-week strength training program (neck flexor...",
+        "pmc_id": "PMC6873131"
       }
     ]
   }
