@@ -1,0 +1,1356 @@
+{
+  "records": [
+    {
+      "pmid": 10003326,
+      "requested-id": "10003326",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1002011,
+      "requested-id": "1002011",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10050494,
+      "requested-id": "10050494",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10054902,
+      "requested-id": "10054902",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10222408,
+      "requested-id": "10222408",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10274531,
+      "requested-id": "10274531",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10346277,
+      "requested-id": "10346277",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10385587,
+      "requested-id": "10385587",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10499556,
+      "requested-id": "10499556",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10519234,
+      "requested-id": "10519234",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10660865,
+      "requested-id": "10660865",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10670325,
+      "requested-id": "10670325",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10717377,
+      "requested-id": "10717377",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10742504,
+      "requested-id": "10742504",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10768281,
+      "requested-id": "10768281",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10787507,
+      "requested-id": "10787507",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10799148,
+      "requested-id": "10799148",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10855467,
+      "requested-id": "10855467",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10894633,
+      "requested-id": "10894633",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 10931520,
+      "requested-id": "10931520",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11061133,
+      "requested-id": "11061133",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11107475,
+      "requested-id": "11107475",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11169467,
+      "requested-id": "11169467",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11194363,
+      "requested-id": "11194363",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11212760,
+      "requested-id": "11212760",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.2105/ajph.91.3.520b",
+      "pmcid": "PMC1446586",
+      "pmid": 11236462,
+      "requested-id": "11236462"
+    },
+    {
+      "pmid": 11381262,
+      "requested-id": "11381262",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11468308,
+      "requested-id": "11468308",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11479467,
+      "requested-id": "11479467",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11506785,
+      "requested-id": "11506785",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11532648,
+      "requested-id": "11532648",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11583650,
+      "requested-id": "11583650",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11626319,
+      "requested-id": "11626319",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11657013,
+      "requested-id": "11657013",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11676608,
+      "requested-id": "11676608",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11869997,
+      "requested-id": "11869997",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11881543,
+      "requested-id": "11881543",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 11902176,
+      "requested-id": "11902176",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12175747,
+      "requested-id": "12175747",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12189723,
+      "requested-id": "12189723",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1222428,
+      "requested-id": "1222428",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12287902,
+      "requested-id": "12287902",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12347062,
+      "requested-id": "12347062",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12365377,
+      "requested-id": "12365377",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12459581,
+      "requested-id": "12459581",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12470264,
+      "requested-id": "12470264",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12471543,
+      "requested-id": "12471543",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12511795,
+      "requested-id": "12511795",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12523446,
+      "requested-id": "12523446",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12545572,
+      "requested-id": "12545572",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12553354,
+      "requested-id": "12553354",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12560638,
+      "requested-id": "12560638",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12563150,
+      "requested-id": "12563150",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12563903,
+      "requested-id": "12563903",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12608013,
+      "requested-id": "12608013",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12631118,
+      "requested-id": "12631118",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1128/JVI.77.12.6988-6994.2003",
+      "pmcid": "PMC156195",
+      "pmid": 12768017,
+      "requested-id": "12768017"
+    },
+    {
+      "pmid": 1282644,
+      "requested-id": "1282644",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12834142,
+      "requested-id": "12834142",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12837434,
+      "requested-id": "12837434",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12916416,
+      "requested-id": "12916416",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12940673,
+      "requested-id": "12940673",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 12942424,
+      "requested-id": "12942424",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 13003460,
+      "requested-id": "13003460",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 13068717,
+      "requested-id": "13068717",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 150977,
+      "requested-id": "150977",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1513335,
+      "requested-id": "1513335",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1572547,
+      "requested-id": "1572547",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1850954,
+      "requested-id": "1850954",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1856337,
+      "requested-id": "1856337",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1895616,
+      "requested-id": "1895616",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 1906415,
+      "requested-id": "1906415",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2040425,
+      "requested-id": "2040425",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2275918,
+      "requested-id": "2275918",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2343625,
+      "requested-id": "2343625",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2515596,
+      "requested-id": "2515596",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2564972,
+      "requested-id": "2564972",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2654272,
+      "requested-id": "2654272",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2700714,
+      "requested-id": "2700714",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2728689,
+      "requested-id": "2728689",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2761150,
+      "requested-id": "2761150",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2779993,
+      "requested-id": "2779993",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2791814,
+      "requested-id": "2791814",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2804940,
+      "requested-id": "2804940",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2853873,
+      "requested-id": "2853873",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 2877069,
+      "requested-id": "2877069",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3099351,
+      "requested-id": "3099351",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3196041,
+      "requested-id": "3196041",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3247877,
+      "requested-id": "3247877",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3285189,
+      "requested-id": "3285189",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3377947,
+      "requested-id": "3377947",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3379977,
+      "requested-id": "3379977",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3471564,
+      "requested-id": "3471564",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3495619,
+      "requested-id": "3495619",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3498358,
+      "requested-id": "3498358",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3527886,
+      "requested-id": "3527886",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3568682,
+      "requested-id": "3568682",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3597223,
+      "requested-id": "3597223",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1172/JCI113047",
+      "pmcid": "PMC442218",
+      "pmid": 3597773,
+      "requested-id": "3597773"
+    },
+    {
+      "pmid": 3602679,
+      "requested-id": "3602679",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3613378,
+      "requested-id": "3613378",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3621717,
+      "requested-id": "3621717",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3662709,
+      "requested-id": "3662709",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3698247,
+      "requested-id": "3698247",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 370981,
+      "requested-id": "370981",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 371033,
+      "requested-id": "371033",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3748997,
+      "requested-id": "3748997",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3800008,
+      "requested-id": "3800008",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3868193,
+      "requested-id": "3868193",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3930370,
+      "requested-id": "3930370",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3936421,
+      "requested-id": "3936421",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 3978883,
+      "requested-id": "3978883",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4030608,
+      "requested-id": "4030608",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4034722,
+      "requested-id": "4034722",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4047110,
+      "requested-id": "4047110",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4082307,
+      "requested-id": "4082307",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4154250,
+      "requested-id": "4154250",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4197149,
+      "requested-id": "4197149",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1073/pnas.70.3.944",
+      "pmcid": "PMC433394",
+      "pmid": 4197630,
+      "requested-id": "4197630"
+    },
+    {
+      "pmid": 4282993,
+      "requested-id": "4282993",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4369670,
+      "requested-id": "4369670",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4394497,
+      "requested-id": "4394497",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4425174,
+      "requested-id": "4425174",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4511496,
+      "requested-id": "4511496",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4576955,
+      "requested-id": "4576955",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1136/bmj.4.5885.134",
+      "pmcid": "PMC1587144",
+      "pmid": 4584707,
+      "requested-id": "4584707"
+    },
+    {
+      "doi": "10.1042/bj1280173",
+      "pmcid": "PMC1173583",
+      "pmid": 4628619,
+      "requested-id": "4628619"
+    },
+    {
+      "pmid": 4646414,
+      "requested-id": "4646414",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4681158,
+      "requested-id": "4681158",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4703346,
+      "requested-id": "4703346",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4711466,
+      "requested-id": "4711466",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4852356,
+      "requested-id": "4852356",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4938278,
+      "requested-id": "4938278",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 4975990,
+      "requested-id": "4975990",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5038452,
+      "requested-id": "5038452",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5141248,
+      "requested-id": "5141248",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5172538,
+      "requested-id": "5172538",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5183725,
+      "requested-id": "5183725",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmcid": "PMC1697646",
+      "pmid": 5390821,
+      "requested-id": "5390821"
+    },
+    {
+      "pmid": 5412236,
+      "requested-id": "5412236",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5614385,
+      "requested-id": "5614385",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5666637,
+      "requested-id": "5666637",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5669636,
+      "requested-id": "5669636",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5705351,
+      "requested-id": "5705351",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5733004,
+      "requested-id": "5733004",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5765875,
+      "requested-id": "5765875",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmcid": "PMC1945900",
+      "pmid": 5776444,
+      "requested-id": "5776444"
+    },
+    {
+      "pmid": 5880172,
+      "requested-id": "5880172",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 5883991,
+      "requested-id": "5883991",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmcid": "PMC2611349",
+      "pmid": 6043637,
+      "requested-id": "6043637"
+    },
+    {
+      "pmid": 6049710,
+      "requested-id": "6049710",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6099187,
+      "requested-id": "6099187",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6119285,
+      "requested-id": "6119285",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6170724,
+      "requested-id": "6170724",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6314490,
+      "requested-id": "6314490",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6384425,
+      "requested-id": "6384425",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6407111,
+      "requested-id": "6407111",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1128/jcm.19.1.60-62.1984",
+      "pmcid": "PMC270979",
+      "pmid": 6418764,
+      "requested-id": "6418764"
+    },
+    {
+      "pmid": 6449760,
+      "requested-id": "6449760",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6481174,
+      "requested-id": "6481174",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6490074,
+      "requested-id": "6490074",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1073/pnas.80.5.1377",
+      "pmcid": "PMC393600",
+      "pmid": 6572395,
+      "requested-id": "6572395"
+    },
+    {
+      "pmid": 6591225,
+      "requested-id": "6591225",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6683255,
+      "requested-id": "6683255",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6687120,
+      "requested-id": "6687120",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6936629,
+      "requested-id": "6936629",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6945804,
+      "requested-id": "6945804",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6952105,
+      "requested-id": "6952105",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 6970614,
+      "requested-id": "6970614",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "doi": "10.1136/pgmj.56.657.501",
+      "pmcid": "PMC2425809",
+      "pmid": 7003574,
+      "requested-id": "7003574"
+    },
+    {
+      "pmid": 7192270,
+      "requested-id": "7192270",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7290807,
+      "requested-id": "7290807",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7305651,
+      "requested-id": "7305651",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7386065,
+      "requested-id": "7386065",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7519313,
+      "requested-id": "7519313",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7592879,
+      "requested-id": "7592879",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7600128,
+      "requested-id": "7600128",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7878337,
+      "requested-id": "7878337",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 7956562,
+      "requested-id": "7956562",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8066068,
+      "requested-id": "8066068",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8070135,
+      "requested-id": "8070135",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8125628,
+      "requested-id": "8125628",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8146469,
+      "requested-id": "8146469",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8233472,
+      "requested-id": "8233472",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8307672,
+      "requested-id": "8307672",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8308327,
+      "requested-id": "8308327",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8317266,
+      "requested-id": "8317266",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8355064,
+      "requested-id": "8355064",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8392766,
+      "requested-id": "8392766",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8399874,
+      "requested-id": "8399874",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8465708,
+      "requested-id": "8465708",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8556675,
+      "requested-id": "8556675",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8565237,
+      "requested-id": "8565237",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmcid": "PMC1861694",
+      "pmid": 8579102,
+      "requested-id": "8579102"
+    },
+    {
+      "pmid": 8582318,
+      "requested-id": "8582318",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8618113,
+      "requested-id": "8618113",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8619365,
+      "requested-id": "8619365",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8621259,
+      "requested-id": "8621259",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8648109,
+      "requested-id": "8648109",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8751404,
+      "requested-id": "8751404",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8799384,
+      "requested-id": "8799384",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8870323,
+      "requested-id": "8870323",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8891506,
+      "requested-id": "8891506",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 8985571,
+      "requested-id": "8985571",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9003278,
+      "requested-id": "9003278",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9010371,
+      "requested-id": "9010371",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9022617,
+      "requested-id": "9022617",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9040148,
+      "requested-id": "9040148",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9086765,
+      "requested-id": "9086765",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9102523,
+      "requested-id": "9102523",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9175030,
+      "requested-id": "9175030",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9275476,
+      "requested-id": "9275476",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9295270,
+      "requested-id": "9295270",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9304488,
+      "requested-id": "9304488",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9339573,
+      "requested-id": "9339573",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9344027,
+      "requested-id": "9344027",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9397026,
+      "requested-id": "9397026",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9455133,
+      "requested-id": "9455133",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9495646,
+      "requested-id": "9495646",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9517530,
+      "requested-id": "9517530",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9544979,
+      "requested-id": "9544979",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9549483,
+      "requested-id": "9549483",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9575623,
+      "requested-id": "9575623",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9788327,
+      "requested-id": "9788327",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9926098,
+      "requested-id": "9926098",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    },
+    {
+      "pmid": 9964048,
+      "requested-id": "9964048",
+      "status": "error",
+      "errmsg": "Identifier not found in PMC"
+    }
+  ]
+}

@@ -31,3 +31,6 @@
 [submodule "golf"]
 	path = golf
 	url = https://github.com/nickofangels/knowledge-golf.git
+[submodule "food-profiles"]
+	path = food-profiles
+	url = https://github.com/nickofangels/knowledge-food-profiles.git
