@@ -6547,6 +6547,346 @@
     ]
   },
   {
+    "file": "Exercise Timing & Sleep  By Modality, Mechanisms, and ADHD-I.md",
+    "title": "Exercise Timing & Sleep: Modality, Mechanisms, and ADHD-I",
+    "source_count": 40,
+    "sources": [
+      {
+        "num": 1,
+        "title": "Dose-response relationship between evening exercise and sleep",
+        "url": "https://www.nature.com/articles/s41467-025-58271-x",
+        "url_type": "nature",
+        "academic": true,
+        "description": "Exercise is essential for health, but strenuous evening exercise may disrupt sleep. Here, using 4-mi..."
+      },
+      {
+        "num": 2,
+        "title": "Dose-response relationship between evening exercise ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12000559/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Public health guidelines recommend exercise as a key lifestyle intervention for promoting and mainta...",
+        "pmc_id": "PMC12000559"
+      },
+      {
+        "num": 3,
+        "title": "Exercise Before Sleep: How Workout Timing Affects Recovery",
+        "url": "https://www.whoop.com/us/en/thelocker/fact-or-fiction-does-exercise-close-to-bedtime-harm-sleep-quality/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Introduction If you turn to the Internet for advice about improving sleep quality, you will find nea..."
+      },
+      {
+        "num": 4,
+        "title": "Frontiers | ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "Accumulating evidence indicates that circadian rhythm dysfunction is a clinically significant and hi..."
+      },
+      {
+        "num": 5,
+        "title": "ADHD as a circadian rhythm disorder: evidence and implications for ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12728042/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Accumulating evidence indicates that circadian rhythm dysfunction is a clinically significant and hi...",
+        "pmc_id": "PMC12728042"
+      },
+      {
+        "num": 6,
+        "title": "Unraveling the insomnia puzzle: sleep reactivity, attention deficit ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11794806/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Our findings suggest that higher sleep reactivity, increased ADHD symptoms, and being female may pre...",
+        "pmc_id": "PMC11794806"
+      },
+      {
+        "num": 7,
+        "title": "Cortisol and other stress hormones in ADHD - Das Projekt ADxS.org",
+        "url": "https://www.adxs.org/en/page/132/cortisol-and-other-stress-hormones-in-adhd",
+        "url_type": "other",
+        "academic": false,
+        "description": "Epidemiologic and preclinical studies have shown that the disorder of the HPA axis in ADHD may resul..."
+      },
+      {
+        "num": 8,
+        "title": "Different Intensities of Evening Exercise on Sleep in Healthy Adults",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9760070/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The effects of different intensities of evening exercise on subsequent sleep remain contradictory. T...",
+        "pmc_id": "PMC9760070"
+      },
+      {
+        "num": 9,
+        "title": "Endocrine responses of the stress system to different types of exercise",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10023776/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Cortisol concentrations return to pre-exercise values in about 150 min after ... returns to baseline...",
+        "pmc_id": "PMC10023776"
+      },
+      {
+        "num": 11,
+        "title": "Effects of exercise timing and intensity on physiological circadian ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10636512/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "They found that evening exercise (17:00–19:00) for 2 h increased nocturnal core body temperature, de...",
+        "pmc_id": "PMC10636512"
+      },
+      {
+        "num": 12,
+        "title": "The effects of evening high-intensity exercise on sleep in healthy ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079221001209",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "Overall, acute evening HIE performed 2–4 h before bedtime does not disrupt nighttime sleep of health..."
+      },
+      {
+        "num": 13,
+        "title": "Effects of acute bouts of evening resistance or endurance exercises ...",
+        "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1313545/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "The present study aimed to investigate the effects of two types of evening exercise on sleep archite..."
+      },
+      {
+        "num": 14,
+        "title": "Effects of acute bouts of evening resistance or endurance exercises ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10844443/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Results: Sleep efficiency was lower after both endurance and resistance exercise than after the cont...",
+        "pmc_id": "PMC10844443"
+      },
+      {
+        "num": 15,
+        "title": "Effects of resistance training intensity on sleep quality and strength ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7996385/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Resistance training (RT) variables can affect sleep quality, strength recovery and performance. The ...",
+        "pmc_id": "PMC7996385"
+      },
+      {
+        "num": 16,
+        "title": "Catecholamines - NSCA",
+        "url": "https://www.nsca.com/education/articles/kinetic-select/catecholamines/",
+        "url_type": "other",
+        "academic": false,
+        "description": "A high-intensity (10RM), short-rest (10-60 seconds between sets and exercises), heavy resistance exe..."
+      },
+      {
+        "num": 17,
+        "title": "New study suggests resistance training helps sleep - UCLA Health",
+        "url": "https://www.uclahealth.org/news/article/new-study-suggests-resistance-training-helps-sleep",
+        "url_type": "other",
+        "academic": false,
+        "description": "18. [Exercise improves the quality of slow-wave sleep by ... - PMC - NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC7904822/) - Exercise can improve sleep by reducing sleep latency and increasing slow-"
+      },
+      {
+        "num": 19,
+        "title": "a study of renalase and catecholamine responses - Frontiers",
+        "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1591132/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "During endurance exercise, catecholamines typically follow different time courses, with norepinephri..."
+      },
+      {
+        "num": 20,
+        "title": "Physical stress and catecholamine release - ScienceDirect.com",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0950351X87800642",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "In both health and disease, noradrenaline and adrenaline concentrations in plasma increase with inte..."
+      },
+      {
+        "num": 21,
+        "title": "The effect of 8 weeks of plyometric training on cortisol and DHEA",
+        "url": "https://www.primescholars.com/articles/the-effect-of-8-weeks-of-plyometric-training-on-cortisol-and-dhea-levels-in-male-badminton-players-91633.html",
+        "url_type": "other",
+        "academic": false,
+        "description": "The findings showed that plyometric training can reduce cortisol levels as an indicator of catabolic..."
+      },
+      {
+        "num": 22,
+        "title": "Follow-Up Alterations of Catecholamine Hormones after an ...",
+        "url": "https://www.biotech-asia.org/vol8no2/follow-up-alterations-of-catecholamine-hormones-after-an-intensive-physical-activity/",
+        "url_type": "other",
+        "academic": false,
+        "description": "The results also showed that the increase for norepinephrine continued two days after physical exerc..."
+      },
+      {
+        "num": 23,
+        "title": "The Science of Sleep Temperature: Why Thermoregulation ... - BedJet",
+        "url": "https://bedjet.com/blogs/sleep-blog/science-of-sleep-temperature",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Research published in Frontiers in Neuroscience confirms that sleep onset and core temperature reduc..."
+      },
+      {
+        "num": 24,
+        "title": "Thermoregulatory changes around the time of sleep onset",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031938406005051",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "A causal relationship between declining nocturnal core temperature, increasing peripheral temperatur..."
+      },
+      {
+        "num": 25,
+        "title": "Sleep and thermoregulation - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7323637/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Two hours before falling asleep, our core temperature starts to decrease under circadian control [6]...",
+        "pmc_id": "PMC7323637"
+      },
+      {
+        "num": 26,
+        "title": "Why Does My Sleep Score Drop After Evening Cardio And ...",
+        "url": "https://www.alibaba.com/product-insights/why-does-my-sleep-score-drop-after-evening-cardio-and-how-to-shift-timing-without-losing-consistency.html",
+        "url_type": "other",
+        "academic": false,
+        "description": "Discover why evening cardio lowers your sleep score, the science behind it, and how to shift workout..."
+      },
+      {
+        "num": 27,
+        "title": "Does the timing of your workout impact your sleep quality?",
+        "url": "https://www.advisory.com/daily-briefing/2025/05/22/exercise-bedtime",
+        "url_type": "other",
+        "academic": false,
+        "description": "According to a new study of nearly 15,000 adults, exercising within four hours of bedtime may delay ..."
+      },
+      {
+        "num": 28,
+        "title": "Assessment of sympathetic neural activity in chronic insomnia",
+        "url": "https://academic.oup.com/sleep/article/41/6/zsy048/4924355",
+        "url_type": "oxford",
+        "academic": true,
+        "description": "Participants with chronic insomnia demonstrated impaired sympathetic baroreflex function and augment..."
+      },
+      {
+        "num": 29,
+        "title": "How Are Sleep and ADHD Connected? - HelpGuide.org",
+        "url": "https://www.helpguide.org/wellness/sleep/adhd-and-sleep",
+        "url_type": "other",
+        "academic": false,
+        "description": "Chronic stress and elevated cortisol levels can exacerbate ADHD symptoms by increasing hyperactivity..."
+      },
+      {
+        "num": 30,
+        "title": "Cortisol and Growth Hormone Responses to Exercise at Different ...",
+        "url": "https://academic.oup.com/jcem/article/86/6/2881/2849394",
+        "url_type": "oxford",
+        "academic": true,
+        "description": "Although the duration of the increase in serum cortisol concentrations after exercise was similar (∼..."
+      },
+      {
+        "num": 32,
+        "title": "Catecholamines and the effects of exercise, training and gender",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18416594/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "Stress hormones, adrenaline (epinephrine) and noradrenaline (norepinephrine), are responsible for ma...",
+        "pmid": "18416594"
+      },
+      {
+        "num": 33,
+        "title": "Delayed Circadian Rhythm Phase: A Cause of Late-Onset ADHD ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6487490/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Late-onset attention-deficit/hyperactivity disorder (ADHD) has been a topic of significant debate wi...",
+        "pmc_id": "PMC6487490"
+      },
+      {
+        "num": 34,
+        "title": "Unraveling the insomnia puzzle: sleep reactivity, attention deficit ...",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1528979/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "Our findings suggest that higher sleep reactivity, increased ADHD symptoms, and being female may pre..."
+      },
+      {
+        "num": 36,
+        "title": "A Look at the Vagus Nerve and ADHD | PX Docs",
+        "url": "https://pxdocs.com/adhd/vagus-nerve-and-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Research clearly demonstrates links between impaired vagal tone, poor nervous system communication (..."
+      },
+      {
+        "num": 37,
+        "title": "Understanding the Autistic and ADHD Nervous System",
+        "url": "https://neurodivergentinsights.com/autistic-adhd-nervous-system/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Research has shown that Autistic and ADHD individuals often have low vagal tone, contributing to wha..."
+      },
+      {
+        "num": 38,
+        "title": "The aetiological association between the dynamics of cortisol ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5005391/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Some studies suggest that the covariation between ADHD and HPA-axis dysregulation is further complic...",
+        "pmc_id": "PMC5005391"
+      },
+      {
+        "num": 39,
+        "title": "Catecholamine Response to Exercise in Children with Attention ...",
+        "url": "https://www.nature.com/articles/pr2003297",
+        "url_type": "nature",
+        "academic": true,
+        "description": "Our data suggest that CA excretion after exercise challenges in children with ADHD is deficient. Thi..."
+      },
+      {
+        "num": 40,
+        "title": "What is the Best Time of Day to Take ADHD Medication",
+        "url": "https://www.audhdpsychiatry.co.uk/insights/adhd-medication-best-time-of-day/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Evening doses are far less common, particularly with stimulants, as they often interfere with sleep...."
+      },
+      {
+        "num": 41,
+        "title": "ADHD stimulants and sleep - Mommies In Mind",
+        "url": "https://www.mommiesinmind.com/post/adhd-stimulants-and-sleep",
+        "url_type": "other",
+        "academic": false,
+        "description": "Adding a stimulant to the situation is a double whammy and can make any pre-existing sleep issues wo..."
+      },
+      {
+        "num": 42,
+        "title": "Circadian Rhythms Matter More Than You Might Think in ADHD",
+        "url": "https://brandonluumd.substack.com/p/circadian-rhythms-matter-more-than",
+        "url_type": "other",
+        "academic": false,
+        "description": "Circadian-Focused Treatments for ADHD · 1. Morning Bright Light Exposure: Get bright light exposure ..."
+      },
+      {
+        "num": 43,
+        "title": "Circadian rhythm phase shifts caused by timed exercise vary with ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7098792/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The circadian system entrains behavioral and physiological rhythms to environmental cycles, and mode...",
+        "pmc_id": "PMC7098792"
+      },
+      {
+        "num": 44,
+        "title": "Cortisol awakening response in adults with attention deficit ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0924977X16300128",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "These results suggest that adults with ADHD exhibit normal cortisol responses upon awakening and thu..."
+      }
+    ]
+  },
+  {
     "file": "Exercise, Mast Cell Activation, and Connective Tissue Disorders.md",
     "title": "Exercise, Mast Cell Activation, and Connective Tissue Disorders",
     "source_count": 45,
