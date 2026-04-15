@@ -1,5 +1,588 @@
 [
   {
+    "file": "ADHD & Sleep  A Deep Dive (1).md",
+    "title": "ADHD & Sleep: A Deep Dive",
+    "source_count": 69,
+    "sources": [
+      {
+        "num": 1,
+        "title": "Frontiers | ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "Accumulating evidence indicates that circadian rhythm dysfunction is a clinically significant and hi..."
+      },
+      {
+        "num": 2,
+        "title": "Unraveling the insomnia puzzle: sleep reactivity, attention ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11794806/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Insomnia is the most common sleep problem among adults with attention deficit hyperactivity disorder...",
+        "pmc_id": "PMC11794806"
+      },
+      {
+        "num": 3,
+        "title": "ADHD and Sleep Problems: How Are They Related?",
+        "url": "https://www.sleepfoundation.org/mental-health/adhd-and-sleep",
+        "url_type": "other",
+        "academic": false,
+        "description": "Some researchers believe that ADHD-related sleep problems can be traced to adelayed circadian rhythm..."
+      },
+      {
+        "num": 4,
+        "title": "Sleep disorders in patients with ADHD: impact and management ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6299464/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "ADHD symptoms are associated with PLMD, extreme evening chronotype, and insomnia. Inattentive sympto...",
+        "pmc_id": "PMC6299464"
+      },
+      {
+        "num": 5,
+        "title": "The key role of daytime sleepiness in cognitive functioning of adults ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7315868/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Adults with attention deficit hyperactivity disorder (ADHD) frequently suffer from sleep problems an...",
+        "pmc_id": "PMC7315868"
+      },
+      {
+        "num": 6,
+        "title": "The ADHD Subtypes | Neurodivergent Insights",
+        "url": "https://neurodivergentinsights.com/adhd-vs-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Willcutt, 2012 found that while ADHD-I was the most common subtype, people with ADHD-C were more lik..."
+      },
+      {
+        "num": 7,
+        "title": "Association of Inattention, Hyperactivity, and Hypersomnolence in ...",
+        "url": "https://journals.sagepub.com/doi/10.1177/1087054718775826",
+        "url_type": "other",
+        "academic": false,
+        "description": "Children and adults with ADHD frequently experience day- and night-time sleep problems (e.g., excess..."
+      },
+      {
+        "num": 8,
+        "title": "Sleep and daytime function in adults with attention-deficit/hyperactivity disorder: subtype differences - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23643650/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "Altogether our data indicate that the interplay of variables associated with daytime function and sl...",
+        "pmid": "23643650"
+      },
+      {
+        "num": 9,
+        "title": "ADHD as a circadian rhythm disorder: evidence and implications for ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12728042/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Accumulating evidence indicates that circadian rhythm dysfunction is a clinically significant and hi...",
+        "pmc_id": "PMC12728042"
+      },
+      {
+        "num": 10,
+        "title": "Chronotherapy for Circadian Rhythm Disorder, ADHD - ADDitude",
+        "url": "https://www.additudemag.com/chronotherapy-circadian-rhythm-disorder-bright-light-therapy/",
+        "url_type": "other",
+        "academic": false,
+        "description": "A pilot study found that, for adults with ADHD, two weeks of bright light therapy in the morning (10..."
+      },
+      {
+        "num": 11,
+        "title": "Delayed Circadian Rhythm Phase: A Cause of Late-Onset ADHD ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6487490/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Late-onset attention-deficit/hyperactivity disorder (ADHD) has been a topic of significant debate wi...",
+        "pmc_id": "PMC6487490"
+      },
+      {
+        "num": 12,
+        "title": "Correcting Delayed Circadian Phase with Bright Light Therapy ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7959333/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Thus, we found that BLT was an effective treatment for restoring alignment between DLMO and mid-slee...",
+        "pmc_id": "PMC7959333"
+      },
+      {
+        "num": 13,
+        "title": "Screen time, social jetlag, future hope, and ADHD symptoms in ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823121/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "Findings suggest that heavier daily screen exposure and circadian misalignment are associated with g...",
+        "pmid": "41823121"
+      },
+      {
+        "num": 14,
+        "title": "Sleep timing, chronotype and social jetlag: Impact on cognitive ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0006295221000344",
+        "url_type": "sciencedirect",
+        "academic": true,
+        "description": "Evening types appear to be cognitively more vulnerable to suboptimal times than morning types, proba..."
+      },
+      {
+        "num": 15,
+        "title": "Sleep quality, chronotype and social jetlag differentially associate ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27668457/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "Group-wise approaches show that higher SJL is associated with significantly more ADHD symptoms and i...",
+        "pmid": "27668457"
+      },
+      {
+        "num": 16,
+        "title": "New Frontiers: Neurobiology of Sleep in ADHD - Neupsy Key",
+        "url": "https://neupsykey.com/new-frontiers-neurobiology-of-sleep-in-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "There is some evidence that ADHD medications affecting the dopaminergic system may lead to sleep dis..."
+      },
+      {
+        "num": 17,
+        "title": "Sleep problems in ADHD - neurophysiological correlates",
+        "url": "https://www.adxs.org/en/page/156/sleep-problems-in-adhd-neurophysiological-correlates",
+        "url_type": "other",
+        "academic": false,
+        "description": "Dopamine and melatonin are involved in the regulation of tiredness and sleep. The dopaminergic syste..."
+      },
+      {
+        "num": 18,
+        "title": "Ferritin and Hyperactivity Ratings in Attention Deficit ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4677666/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Iron is a co-factor of tyrosine hydroxylase which is a critical enzyme in dopamine synthesis. Dopami...",
+        "pmc_id": "PMC4677666"
+      },
+      {
+        "num": 19,
+        "title": "Importance of Iron in ADHD: A Functional Psychiatry Perspectivewww.psychiatryredefined.org › the-importance-of-iron-in-adhd-a-function...",
+        "url": "https://www.psychiatryredefined.org/the-importance-of-iron-in-adhd-a-functional-psychiatry-perspective/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Research has found that many individuals with ADHD, especially children, have low iron levels, which..."
+      },
+      {
+        "num": 20,
+        "title": "Parent-reported sleep problems, symptom ratings, and serum ferritin ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3878403/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Sleep problems are common among children with attention-deficit/hyperactivity disorder (ADHD). Serum...",
+        "pmc_id": "PMC3878403"
+      },
+      {
+        "num": 21,
+        "title": "Periodic limb movements in sleep and attention deficit hyperactivity ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2528616/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Periodic limb movements in sleep (PLMS) is an uncommon sleep disorder in the paediatric population. ...",
+        "pmc_id": "PMC2528616"
+      },
+      {
+        "num": 22,
+        "title": "Restless Leg Disorders in Kids with ADHD",
+        "url": "https://www.nationwidechildrens.org/conditions/health-library/restless-leg-disorders-in-kids-with-adhd",
+        "url_type": "other",
+        "academic": false,
+        "description": "Two of the most common sleep disorders linked with ADHD are periodic limb movements of sleep (PLMS) ..."
+      },
+      {
+        "num": 23,
+        "title": "ADHD and Iron Deficiency: An Under-Recognised Biological Link",
+        "url": "https://www.kantoko.com.au/articles/adhd-and-iron-deficiency",
+        "url_type": "other",
+        "academic": false,
+        "description": "Could low iron affect ADHD symptoms? Learn about ferritin testing, diet, and evidence-based suppleme..."
+      },
+      {
+        "num": 24,
+        "title": "Delayed Sleep Phase Syndrome: Signs, ADHD Link, Treatments",
+        "url": "https://www.additudemag.com/delayed-sleep-phase-syndrome-signs-treatments-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Proper treatment of DSPS comprises specialized approaches like light therapy and melatonin supplemen..."
+      },
+      {
+        "num": 25,
+        "title": "ADHD & Insomnia: ScienceWorks' Guide to Better Sleep in 2026",
+        "url": "https://www.scienceworkshealth.com/post/adhd-insomnia-delayed-sleep-wake-phase-and-the-racing-brain-at-night",
+        "url_type": "other",
+        "academic": false,
+        "description": "Nightmares can be a symptom of the restless sleep and racing thoughts often associated with ADHD. ....."
+      },
+      {
+        "num": 26,
+        "title": "Shining a light on sleep in ADHD: ADHD, sleep, circadian rhythm ...",
+        "url": "https://research.vu.nl/en/publications/shining-a-light-on-sleep-in-adhd-adhd-sleep-circadian-rhythm-and-/",
+        "url_type": "other",
+        "academic": false,
+        "description": "In PhASE, 51 participants received sleep education followed by 3 weeks of placebo, melatonin, or mel..."
+      },
+      {
+        "num": 27,
+        "title": "The Link Between Sleep Disturbances and ADHD: Why Bedtime ...",
+        "url": "https://www.myndset-therapeutics.com/post/the-link-between-sleep-disturbances-and-adhd-why-bedtime-feels-like-a-battle",
+        "url_type": "other",
+        "academic": false,
+        "description": "Sleep disturbances are a common struggle for those with ADHD, leading to racing thoughts, anxiety, a..."
+      },
+      {
+        "num": 28,
+        "title": "ADHD and Insomnia: When Racing Thoughts, Late Energy, and ...",
+        "url": "https://www.scienceworkshealth.com/post/adhd-and-insomnia-when-racing-thoughts-late-energy-and-burnout-collide",
+        "url_type": "other",
+        "academic": false,
+        "description": "Last reviewed: 03/28/2026Reviewed by: Dr. Kiesa KellyADHD and insomnia often collide in ways that fe..."
+      },
+      {
+        "num": 29,
+        "title": "Periodic limb movement disorder and restless legs syndrome in ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9881529/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "Eighteen children (aged 2 to 15 years) of the 27 (26% of the 69 children with ADHD) had 5 or more pe...",
+        "pmid": "9881529"
+      },
+      {
+        "num": 30,
+        "title": "A Case Series of Children with ADHD and Restless Sleep",
+        "url": "https://www.heraldopenaccess.us/openaccess/a-case-series-of-children-with-adhd-and-restless-sleep",
+        "url_type": "other",
+        "academic": false,
+        "description": "RSD is characterized by sleep disruption and frequent nocturnal body movements of large muscle group..."
+      },
+      {
+        "num": 33,
+        "title": "assessing sluggish cognitive tempo in adults 1 - ERIC",
+        "url": "https://files.eric.ed.gov/fulltext/ED614939.pdf",
+        "url_type": "other",
+        "academic": false,
+        "description": "34. [[PDF] Does sleep impact Sluggish Cognitive Tempo (Cognitive ... - Authorea](https://d197for5662m48.cloudfront.net/documents/publicationstatus/227915/preprint_pdf/86ea1c11a95d4d8e4ed3df7b2a2186a6."
+      },
+      {
+        "num": 35,
+        "title": "Relationship between subtypes and symptoms of ADHD, insomnia ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5592957/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "This study examined the links between sleep disorders and subtypes of attention deficit-hyperactivit...",
+        "pmc_id": "PMC5592957"
+      },
+      {
+        "num": 36,
+        "title": "Relationship between subtypes and symptoms of ADHD, insomnia ...",
+        "url": "https://www.dovepress.com/relationship--between-subtypes-and-symptoms-of-adhd-insomnia-and-night-peer-reviewed-fulltext-article-NDT",
+        "url_type": "other",
+        "academic": false,
+        "description": "Conclusion: We verified an elevated occurrence of sleep disorders in children with ADHD and were abl..."
+      },
+      {
+        "num": 37,
+        "title": "Investigating ADHD Symptoms and Sleep Disturbances in Young ...",
+        "url": "https://www.dovepress.com/investigating-adhd-symptoms-and-sleep-disturbances-in-young-adults-a-c-peer-reviewed-fulltext-article-NSS",
+        "url_type": "other",
+        "academic": false,
+        "description": "In conclusion, our findings indicate that university students with elevated ADHD symptoms experience..."
+      },
+      {
+        "num": 38,
+        "title": "ADHD: Attention difficulties are linked to the intrusion of sleep waves ...",
+        "url": "https://parisbraininstitute.org/news/adhd-attention-difficulties-are-linked-intrusion-sleep-waves-during-wakefulness",
+        "url_type": "other",
+        "academic": false,
+        "description": "The result: “Adults with ADHD show a significantly higher density of slow waves, which are usually o..."
+      },
+      {
+        "num": 39,
+        "title": "Sleep-like Slow Waves During Wakefulness Mediate Attention and ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839570/",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "Individuals with ADHD frequently experience sleep disorders and excessive daytime sleepiness, sugges...",
+        "pmid": "41839570"
+      },
+      {
+        "num": 40,
+        "title": "ADHD brains show sleep-like activity even while awake - ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/03/260317015928.htm",
+        "url_type": "other",
+        "academic": false,
+        "description": "Sleep-like Slow Waves During Wakefulness Mediate Attention and Vigilance Difficulties in Adult Atten..."
+      },
+      {
+        "num": 41,
+        "title": "Sleep and ADHD: Revenge Bedtime Procrastination",
+        "url": "https://www.petrahoggarth.co.nz/post/sleep-and-adhd-revenge-bedtime-procrastination",
+        "url_type": "other",
+        "academic": false,
+        "description": "As part of my focus on sleep and ADHD here I discuss revenge bedtime procrastination."
+      },
+      {
+        "num": 42,
+        "title": "Revenge Sleep Procrastination: How ADHD Affects Your Bedtime",
+        "url": "https://ouraring.com/blog/revenge-sleep-procrastination-adhd/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "People with ADHD may struggle with revenge sleep procrastination. Learn why and discover five strate..."
+      },
+      {
+        "num": 43,
+        "title": "The link between revenge bedtime procrastination & ADHD",
+        "url": "https://www.rula.com/blog/revenge-bedtime-procrastination-adhd/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Learn why sleep procrastination can be common in people with ADHD, how it worsens symptoms, and prac..."
+      },
+      {
+        "num": 44,
+        "title": "Understanding and Managing Bedtime Procrastination",
+        "url": "https://positivereseteatontown.com/revenge-bedtime-procrastination-adhd-understanding-and-managing-late-night-habits/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Struggling with ADHD and late nights? Learn why revenge bedtime procrastination happens and discover..."
+      },
+      {
+        "num": 45,
+        "title": "ADHD and sleep deprivation cycle: Symptoms and consequences",
+        "url": "https://www.getinflow.io/post/adhd-and-sleep-deprivation-a-nightmarish-cycle-of-symptoms-and-consequences",
+        "url_type": "other",
+        "academic": false,
+        "description": "First sign of sleep deprivation: you're reading this when you should be sleeping | Category: Health"
+      },
+      {
+        "num": 46,
+        "title": "Discussion",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12039221/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Attention Deficit Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder that begins in chil...",
+        "pmc_id": "PMC12039221"
+      },
+      {
+        "num": 47,
+        "title": "Unraveling the insomnia puzzle: sleep reactivity, attention deficit ...",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1528979/full",
+        "url_type": "frontiers",
+        "academic": true,
+        "description": "Our findings suggest that higher sleep reactivity, increased ADHD symptoms, and being female may pre..."
+      },
+      {
+        "num": 48,
+        "title": "Tired But Wired: Sleep and ADHD - CHADD",
+        "url": "https://chadd.org/adhd-news/adhd-news-adults/attention-tired-but-wired-sleep-and-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "ADHD NEWSSTAND FOR ADULTS Tired But Wired: Sleep and ADHD by Marlee Boyle Attention Magazine April 2..."
+      },
+      {
+        "num": 49,
+        "title": "What's the relationship between daytime sleepiness and cognitive ...",
+        "url": "https://www.adhdevidence.org/blog/daytime-sleepiness-cognitive-function-and-adult-adhd",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "We would like to propose a simple working hypothesis that daytime sleepiness plays a major role in c..."
+      },
+      {
+        "num": 50,
+        "title": "Can't sleep, can't focus, can't thrive? ADHD and insomnia may be a ...",
+        "url": "https://www.sciencedaily.com/releases/2025/07/250716000843.htm",
+        "url_type": "other",
+        "academic": false,
+        "description": "New research reveals a strong link between insomnia and reduced well-being in people with ADHD sympt..."
+      },
+      {
+        "num": 51,
+        "title": "Insomnia Plays a Role in Quality of Life for Patients With ADHD",
+        "url": "https://www.neurologyadvisor.com/news/insomnia-plays-role-quality-of-life-patients-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "ADHD symptoms are associated with lower quality of life in adults, and this association is only part..."
+      },
+      {
+        "num": 52,
+        "title": "Methylphenidate Can Have Sleep Benefits in Adults with ADHD",
+        "url": "https://aasm.org/journal-sleep-methylphenidate-can-have-sleep-benefits-in-adults-with-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Treatment with methylphenidate appears to have beneficial effects on sleep parameters in adults with..."
+      },
+      {
+        "num": 53,
+        "title": "ADHD and Sleep Problems: Polysomnographic Insights",
+        "url": "https://www.sleepwakeadvisor.com/news/adhd-and-sleep-problems-polysomnogram-markers/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Although ADHD and sleep problems are commonly comorbid, the polysomnographic biomarkers of these sle..."
+      },
+      {
+        "num": 54,
+        "title": "The Role of Polysomnography for Children with Attention-Deficit ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12029080/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Several studies have suggested that PSG may reveal subtle abnormalities in sleep architecture among ...",
+        "pmc_id": "PMC12029080"
+      },
+      {
+        "num": 55,
+        "title": "Untreated Adults With ADHD Spend Longer in Slow Wave Sleep ...",
+        "url": "https://www.psychiatryadvisor.com/news/untreated-adults-with-adhd-spend-longer-slow-wave-sleep-than-controls/",
+        "url_type": "other",
+        "academic": false,
+        "description": "The duration of slow wave sleep was longer in drug-naïve adults with ADHD than in non-ADHD controls,..."
+      },
+      {
+        "num": 56,
+        "title": "NREM Slow-Wave Activity in Adolescents Is Differentially Associated ...",
+        "url": "https://academic.oup.com/ijnp/article/27/7/pyae025/7693625",
+        "url_type": "oxford",
+        "academic": true,
+        "description": "Greater NREM SWA may reflect a compensatory mechanism in middle-later adolescents at risk for ADHD t..."
+      },
+      {
+        "num": 57,
+        "title": "Associations of sleep disturbance with ADHD: implications for treatmentpmc.ncbi.nlm.nih.gov › articles › PMC4340974",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4340974/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Attention-deficit/hyperactivity disorder (ADHD) is commonly associated with disordered or disturbed ...",
+        "pmc_id": "PMC4340974"
+      },
+      {
+        "num": 58,
+        "title": "Melatonin and ADHD: Safety, Side Effects, Dosage - Healthline",
+        "url": "https://www.healthline.com/health/adhd/melatonin-and-adhd",
+        "url_type": "other",
+        "academic": false,
+        "description": "A growing body of evidence suggests that melatonin is a safe and effective supplement for improving ..."
+      },
+      {
+        "num": 59,
+        "title": "Managing Sleep in Adults with ADHD: From Science to Pragmatic ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8534229/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Opinion statements [53] have suggested that melatonin may be favorable as a first choice supplement ...",
+        "pmc_id": "PMC8534229"
+      },
+      {
+        "num": 60,
+        "title": "The optimal system of care for the management of delayed sleep ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12392164/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "One medication used to treat sleep problems in ADHD is Melatonin, a hormone used to treat some sleep...",
+        "pmc_id": "PMC12392164"
+      },
+      {
+        "num": 61,
+        "title": "Cognitive Behavioral Therapy for Insomnia (CBT-I): An Overview",
+        "url": "https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia",
+        "url_type": "other",
+        "academic": false,
+        "description": "CBT-I focuses on restructuring the thoughts, feelings, and behaviors that are contributing to insomn..."
+      },
+      {
+        "num": 62,
+        "title": "Cognitive Behavioral Therapy for Insomnia (CBT-I): A Primer - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10002474/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "CBT-I is a multi-component treatment for insomnia that targets difficulties with initiating and/or m...",
+        "pmc_id": "PMC10002474"
+      },
+      {
+        "num": 63,
+        "title": "Effectiveness of Cognitive Behavioural Therapy for Insomnia (CBT‐I ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12426716/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Multi‐component CBT‐I includes Cognitive Therapy, Stimulus Control Therapy (SCT), Sleep Restriction ...",
+        "pmc_id": "PMC12426716"
+      },
+      {
+        "num": 64,
+        "title": "CBT-I and Insomnia: Train Your Brain for Better Sleep",
+        "url": "https://neurodivergentinsights.com/cbti-insomnia/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Struggling with sleep? Cognitive Behavioral Therapy for Insomnia (CBT-I) helps retrain your brain to..."
+      },
+      {
+        "num": 65,
+        "title": "How does Adderall (amphetamine and ...",
+        "url": "https://www.droracle.ai/articles/718379/how-does-adderall-amphetamine-and-dextroamphetamine-impact-sleep-architecture",
+        "url_type": "other",
+        "academic": false,
+        "description": "The evidence regarding Adderall's specific effects on sleep architecture is limited, but amphetamine..."
+      },
+      {
+        "num": 66,
+        "title": "Daily Stimulant Medication...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12376402/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Research has been inconclusive as to whether stimulant treatment causes or exacerbates sleep problem...",
+        "pmc_id": "PMC12376402"
+      },
+      {
+        "num": 67,
+        "title": "Methylphenidate, Sleep, and the “Stimulant Paradox” in Adult ADHD",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12693367/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "This conceptual narrative review explores the intricate dynamics of the ‘stimulant paradox’ in adult...",
+        "pmc_id": "PMC12693367"
+      },
+      {
+        "num": 68,
+        "title": "UNL | Study links ADHD meds, sleep problems",
+        "url": "https://research.unl.edu/blog/study-links-adhd-meds-sleep-problems-2/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "69. [Effects of medications on sleep quality, insomnia, and circadian ...](https://www.sciencedirect.com/science/article/abs/pii/S1389945725023962) - Stimulant use improved subjective sleep quality in"
+      },
+      {
+        "num": 70,
+        "title": "ADHD and Sleep: Why Your Brain Won't Switch Off at Night",
+        "url": "https://altitudemindclinic.com/adhd-and-sleep/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Cognitive Dumping Techniques: Structured methods for recording racing thoughts, worries, or tomorrow..."
+      },
+      {
+        "num": 71,
+        "title": "10 Tonight Strategies to Improve Sleep with ADHD",
+        "url": "https://www.addrc.org/10-tonight-strategies-to-improve-sleep-with-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "This article offers you practical, evidence-based strategies combining sleep hygiene and bedtime med..."
+      },
+      {
+        "num": 72,
+        "title": "How to Fall Asleep: Common ADHD Problems and Solutions",
+        "url": "https://www.additudemag.com/how-to-fall-asleep-adhd/",
+        "url_type": "other",
+        "academic": false,
+        "description": "To nap, or not to nap? · 20-minute rule: If you're trying to change your sleep time, do it in 20-min..."
+      },
+      {
+        "num": 73,
+        "title": "ADHD and Sleep - Oxford CBT",
+        "url": "https://www.oxfordcbt.co.uk/adhd-and-sleep/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Practical Tips for Managing Sleep Issues with ADHD. Sleep can be a challenge for individuals with AD..."
+      }
+    ]
+  },
+  {
     "file": "ADHD & Sleep  A Deep Dive.md",
     "title": "ADHD & Sleep: A Deep Dive",
     "source_count": 69,
@@ -12743,6 +13326,178 @@
         "url_type": "other",
         "academic": false,
         "description": "Common symptoms in EDS/POTS patients related to temperature/weather: Pain with weather changes; Into..."
+      }
+    ]
+  },
+  {
+    "file": "Tendon Adaptation in hEDS  Mechanisms, Evidence, and Training Differences (1).md",
+    "title": "Tendon Adaptation in hEDS: Mechanisms, Evidence, and Training Differences",
+    "source_count": 20,
+    "sources": [
+      {
+        "num": 2,
+        "title": "Walking saps more energy from hypermobile EDS, HSD ...",
+        "url": "https://ehlersdanlosnews.com/news/walking-saps-energy-hypermobile-eds-hsd-patients/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Weaker calf muscles and ankle joints force people with hypermobile EDS/HSD to work harder while walk..."
+      },
+      {
+        "num": 3,
+        "title": "Quantitative measures of tissue mechanics to detect hypermobile Ehlers-Danlos syndrome and hypermobility syndrome disorders: a systematic review",
+        "url": "https://d-nb.info/1211165469/34",
+        "url_type": "other",
+        "academic": false,
+        "description": "4. [Frontiers | The Role of Cell Adhesion and Cytoskeleton Dynamics in the Pathogenesis of the Ehlers-Danlos Syndromes and Hypermobility Spectrum Disorders](https://www.frontiersin.org/journals/cell-a"
+      },
+      {
+        "num": 5,
+        "title": "EDS biology blog 2: The molecular changes in EDS/HSD fibroblasts",
+        "url": "https://hedstogether.com/eds-hsd-fibroblasts/",
+        "url_type": "other",
+        "academic": false,
+        "description": "1) Collagen fails to activate its receptor, the α2β1 integrin. · 2) In response to this, fibroblasts..."
+      },
+      {
+        "num": 6,
+        "title": "Increased Collagen Turnover Impairs Tendon Microstructure and ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7215526/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "In this study, we investigated the influence of integrin α2β1 on tendons, another collagen type I-ri...",
+        "pmc_id": "PMC7215526"
+      },
+      {
+        "num": 7,
+        "title": "Fascia and Proprioception in Hypermobility and EDS - Jeannie Di Bon",
+        "url": "https://jeanniedibon.com/fascia-and-proprioception-in-eds/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Targeted, progressive resistance training is required to stimulate collagen synthesis and improve te..."
+      },
+      {
+        "num": 8,
+        "title": "Rationale and Feasibility of Resistance Training in hEDS/HSD",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9397026/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Hypermobile Ehlers–Danlos Syndrome (hEDS) and hypermobility spectrum disorder (HSD) are genetic cond...",
+        "pmc_id": "PMC9397026"
+      },
+      {
+        "num": 10,
+        "title": "The role of mechanotransduction in tendon - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11301520/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "Tendons play an important role in the maintenance of motor function by connecting muscles and bones ...",
+        "pmc_id": "PMC11301520"
+      },
+      {
+        "num": 11,
+        "title": "β1 integrin, ILK and mTOR regulate collagen synthesis in mechanically loaded tendon cells",
+        "url": "https://www.nature.com/articles/s41598-020-69267-6",
+        "url_type": "nature",
+        "academic": true,
+        "description": "Tendons are specialized tissues composed primarily of load-responsive fibroblasts (tenocytes) embedd"
+      },
+      {
+        "num": 12,
+        "title": "β1 integrin, ILK and mTOR regulate collagen synthesis in",
+        "url": "https://pureadmin.qub.ac.uk/ws/portalfiles/portal/217685760/s41598_020_69267_6.pdf",
+        "url_type": "other",
+        "academic": false,
+        "description": "13. [Select language](https://www.proquest.com/docview/1019463208) - Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the Pr..."
+      },
+      {
+        "num": 14,
+        "title": "Training-induced changes in peritendinous type I collagen turnover determined by microdialysis in humans - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11433010/?dopt=Abstract",
+        "url_type": "pubmed",
+        "academic": true,
+        "description": "1. Acute exercise is found to increase collagen type I formation locally in peritendinous connective...",
+        "pmid": "11433010"
+      },
+      {
+        "num": 15,
+        "title": "Why Heavy Slow Loading Is Crucial to Tendon Repair",
+        "url": "https://www.head2toeosteopathy.com/post/why-heavy-slow-loading-is-crucial-to-tendon-repair",
+        "url_type": "other",
+        "academic": false,
+        "description": "Pain Reduction: Heavy slow resistance has consistently shown to help reduce tendon pain in clinical ..."
+      },
+      {
+        "num": 16,
+        "title": "Functional Adaptation of Connective Tissue by Training",
+        "url": "https://www.germanjournalsportsmedicine.com/archive/archive-2019/issue-4/functional-adaptation-of-connective-tissue-by-training/",
+        "url_type": "other",
+        "academic": false,
+        "description": "We provide an evidenced-based effective training paradigm for tendon adaptation, characterized by fi..."
+      },
+      {
+        "num": 17,
+        "title": "Understanding the Timeline of Tissue Adaptations in Response to ...",
+        "url": "https://rise-rsp.com/understanding-the-timeline-of-tissue-adaptations-in-response-to-mechanical-loading/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Adaptation Phase (2–8 weeks): Tendons start to show more significant adaptations after about 2 weeks..."
+      },
+      {
+        "num": 18,
+        "title": "CURRENT CONCEPTS OF MUSCLE AND TENDON ADAPTATION ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4637912/",
+        "url_type": "pmc",
+        "academic": true,
+        "description": "The purpose of this clinical commentary is to review the muscular and tendinous adaptations associat...",
+        "pmc_id": "PMC4637912"
+      },
+      {
+        "num": 19,
+        "title": "Functional adaptation of tendon and skeletal muscle to ...",
+        "url": "https://researchprofiles.ku.dk/da/publications/functional-adaptation-of-tendon-and-skeletal-muscle-to-resistance",
+        "url_type": "other",
+        "academic": false,
+        "description": "20. [Functional adaptation of tendon and skeletal muscle to resistance training in three patients with genetically verified classic Ehlers Danlos Syndrome](https://research.regionh.dk/en/publications/"
+      },
+      {
+        "num": 21,
+        "title": "Feasibility of resistance training in patients with Ehlers-Danlos ...",
+        "url": "https://physicaltherapyfirst.com/blog/feasibility-of-resistance-training-in-patients-with-ehlers-danlos-syndrome/",
+        "url_type": "non-academic",
+        "academic": false,
+        "description": "Stiffness (N/mm) of the patellar tendon increased 38.4% and maximal deformity (mm) decreased 14.9% a..."
+      },
+      {
+        "num": 22,
+        "title": "Isometric Exercises for Hypermobility: How I'm Building Joint Stability",
+        "url": "https://eventonefitness.com/isometric-exercises-joint-stability-hypermobility/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Isometric exercises are ideal for hypermobile people because they build strength in precise joint po..."
+      },
+      {
+        "num": 23,
+        "title": "Ehlers–Danlos Syndrome—Hypermobility Type: A Much Neglected ...",
+        "url": "https://www.ehlers-danlos.com/ehlers-danlos-syndrome-hypermobility-type-a-much-neglected-multisystemic-disorder/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Ehlers–Danlos syndrome-HT carries a high potential for disability due to recurrent dislocations and ..."
+      },
+      {
+        "num": 24,
+        "title": "Exercise and movement for adults with hypermobile Ehlers-Danlos ...",
+        "url": "https://www.ehlers-danlos.org/information/exercise-and-movement-for-adults-with-hypermobile-ehlers-danlos-syndrome-and-hypermobility-spectrum-disorders/",
+        "url_type": "other",
+        "academic": false,
+        "description": "This form of exercise enhances muscles, ligaments, tendons and bones. Being stronger reduces the ris..."
+      },
+      {
+        "num": 25,
+        "title": "How To Improve Our Tendon Health with Training",
+        "url": "https://humanperformancealliance.org/playbook/how-to-improve-our-tendon-health-with-training/",
+        "url_type": "other",
+        "academic": false,
+        "description": "Consider incorporating slower exercises such as yoga, slow and heavy weight training, or isometric h..."
       }
     ]
   },
