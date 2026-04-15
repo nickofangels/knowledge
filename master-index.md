@@ -44,3 +44,8 @@ Cost-cutting strategy (3-tier framework), VPS deployment pattern, privacy-first 
 **0 articles** | [Index](singing/wiki/_index.md)
 
 Vocal technique, practice methods, repertoire, performance.
+
+## data-layer
+**15 articles** | [Index](data-layer/wiki/_index.md)
+
+Data Layer Business: SQL + AI thesis, value stack, target market (mid-market CPG), tech stack, competitive landscape, Palantir model at mid-market, platform emergence, pricing strategy, financial model, go-to-market path. Includes ops/ ERP tracking with per-project logs.
