@@ -54,10 +54,60 @@ def classify_url(url: str) -> str:
         return 'jci'
     if 'mdpi.com' in u:
         return 'mdpi'
+    # Additional academic publishers missed by initial patterns
+    if 'journals.physiology.org' in u or 'physiology.org' in u:
+        return 'aps'  # American Physiological Society
+    if 'ahajournals.org' in u:
+        return 'aha'  # American Heart Association
+    if 'pubs.acs.org' in u:
+        return 'acs'  # American Chemical Society
+    if 'pnas.org' in u:
+        return 'pnas'
+    if 'journals.sagepub.com' in u or 'sagepub.com' in u:
+        return 'sage'
+    if 'tandfonline.com' in u:
+        return 'taylor-francis'
+    if 'karger.com' in u:
+        return 'karger'
+    if 'bmj.com' in u or 'gut.bmj.com' in u:
+        return 'bmj'
+    if 'nejm.org' in u:
+        return 'nejm'
+    if 'thelancet.com' in u:
+        return 'lancet'
+    if 'jama' in u and 'network' in u:
+        return 'jama'
+    if 'academia.edu' in u:
+        return 'academia'  # preprints/papers
+    if 'researchgate.net' in u:
+        return 'researchgate'
+    if 'biorxiv.org' in u or 'medrxiv.org' in u:
+        return 'preprint'
+    if 'cochrane' in u:
+        return 'cochrane'
+    if 'semanticscholar.com' in u:
+        return 'semantic-scholar'
+    if 'cellphysiolbiochem.com' in u:
+        return 'cell-physiol'
+    # Non-academic categories
     if 'wikipedia' in u:
         return 'wikipedia'
-    if any(x in u for x in ['youtube', 'blog', 'wordpress', '.org/blog']):
-        return 'non-academic'
+    if any(x in u for x in ['youtube.com', 'facebook.com', 'reddit.com', 'instagram.com', 'tiktok.com']):
+        return 'social-media'
+    if any(x in u for x in ['healthline.com', 'webmd.com', 'verywellhealth.com', 'medicalnewstoday.com',
+                            'sleepfoundation.org', 'mayoclinic.org']):
+        return 'health-media'
+    if any(x in u for x in ['mastcell360.com', 'drhagmeyer.com', 'drbeckycampbell.com', 'droracle.ai',
+                            'jeanniedibon.com', 'thefibroguy.com', 'painri.com']):
+        return 'practitioner'
+    if any(x in u for x in ['eds.clinic', 'rthm.com', 'ehlers-danlos.com', 'mastcellaction.org',
+                            'ehlersdanlosnews.com', 'deficitdao.org']):
+        return 'patient-org'
+    if any(x in u for x in ['additudemag.com', 'neurodivergentinsights.com', 'adxs.org',
+                            'geneticlifehacks.com', 'sciencedaily.com']):
+        return 'science-media'
+    if any(x in u for x in ['.blog', 'blog.', 'wordpress', 'medium.com', 'substack.com']):
+        return 'blog'
     return 'other'
 
 
@@ -66,7 +116,10 @@ def is_academic(url_type: str) -> bool:
     return url_type in {
         'pubmed', 'pmc', 'doi', 'nature', 'sciencedirect', 'wiley',
         'springer', 'frontiers', 'nih-other', 'oxford', 'plos', 'cell',
-        'jci', 'mdpi'
+        'jci', 'mdpi', 'aps', 'aha', 'acs', 'pnas', 'sage',
+        'taylor-francis', 'karger', 'bmj', 'nejm', 'lancet', 'jama',
+        'academia', 'researchgate', 'preprint', 'cochrane',
+        'semantic-scholar', 'cell-physiol'
     }
 
 
