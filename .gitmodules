@@ -37,3 +37,6 @@
 [submodule "data-layer"]
 	path = data-layer
 	url = https://github.com/nickofangels/knowledge-data-layer.git
+[submodule "personal-style"]
+	path = personal-style
+	url = https://github.com/nickofangels/knowledge-personal-style.git
