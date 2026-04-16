@@ -223,7 +223,118 @@ def print_summary(reports: List[Dict]):
     print(f"\n{'='*60}\n")
 
 
+SOURCE_TIER_MAP = {
+    # S1: peer-reviewed (handled by citations.csv)
+    'pubmed': 'S1', 'pmc': 'S1', 'doi': 'S1', 'nature': 'S1',
+    'sciencedirect': 'S1', 'wiley': 'S1', 'springer': 'S1',
+    'frontiers': 'S1', 'nih-other': 'S1', 'oxford': 'S1',
+    'plos': 'S1', 'cell': 'S1', 'jci': 'S1', 'mdpi': 'S1',
+    'aps': 'S1', 'aha': 'S1', 'acs': 'S1', 'pnas': 'S1',
+    'sage': 'S1', 'taylor-francis': 'S1', 'karger': 'S1',
+    'bmj': 'S1', 'nejm': 'S1', 'lancet': 'S1', 'jama': 'S1',
+    'cochrane': 'S1', 'cell-physiol': 'S1',
+    'academia': 'S1', 'researchgate': 'S1', 'preprint': 'S1',
+    'semantic-scholar': 'S1',
+    # S2: named expert / practitioner
+    'practitioner': 'S2',
+    # S3: patient organization
+    'patient-org': 'S3',
+    # S5: single anecdote (social media defaults to this; can be upgraded to S4 manually)
+    'social-media': 'S5',
+    'blog': 'S5',
+    # S6: consumer health media
+    'health-media': 'S6',
+    # Other
+    'science-media': 'S3',  # science journalism, better than health media
+    'wikipedia': 'S3',
+}
+
+
+def source_tier(url_type: str) -> str:
+    """Map URL type to source quality tier (S1-S6)."""
+    return SOURCE_TIER_MAP.get(url_type, 'S5')  # Default to S5 for unknown
+
+
+def generate_sources_section(report: Dict) -> str:
+    """Generate a ## Sources section for a raw file from parsed Perplexity data."""
+    lines = ["## Sources", ""]
+    for src in report['sources']:
+        num = src['num']
+        tier = source_tier(src.get('url_type', 'other'))
+        title = src.get('title', '')[:80]
+        url = src.get('url', '')
+
+        if tier == 'S1':
+            # Academic — show DOI or PubMed link
+            pmid = src.get('pmid', '')
+            pmc_id = src.get('pmc_id', '')
+            if pmid:
+                lines.append(f"[{num}] {tier} pubmed:{pmid} — {title}")
+            elif pmc_id:
+                lines.append(f"[{num}] {tier} {pmc_id} — {title}")
+            else:
+                lines.append(f"[{num}] {tier} {url[:60]} — {title}")
+        elif tier == 'S2':
+            lines.append(f"[{num}] {tier} practitioner — {title} ({url[:60]})")
+        elif tier == 'S3':
+            lines.append(f"[{num}] {tier} org/media — {title} ({url[:60]})")
+        elif tier in ('S4', 'S5'):
+            lines.append(f"[{num}] {tier} {src.get('url_type', 'unknown')} — {title} ({url[:60]})")
+        elif tier == 'S6':
+            lines.append(f"[{num}] {tier} health-media — {title} ({url[:60]})")
+        else:
+            lines.append(f"[{num}] {tier} — {title} ({url[:60]})")
+
+    # Summary
+    tier_counts = Counter(source_tier(s.get('url_type', 'other')) for s in report['sources'])
+    lines.append("")
+    lines.append(f"<!-- Source quality: {', '.join(f'{t}={n}' for t, n in sorted(tier_counts.items()))} -->")
+    return "\n".join(lines)
+
+
+def single_file_mode(filepath: Path):
+    """Parse a single Perplexity markdown and append a ## Sources section."""
+    report = parse_file(filepath)
+
+    if not report['sources']:
+        print(f"No numbered sources found in {filepath.name}")
+        return
+
+    # Generate sources section
+    sources_section = generate_sources_section(report)
+
+    # Print summary
+    tier_counts = Counter(source_tier(s.get('url_type', 'other')) for s in report['sources'])
+    print(f"\n  {filepath.name}")
+    print(f"  {report['source_count']} sources parsed")
+    for tier in sorted(tier_counts):
+        label = {'S1': 'peer-reviewed', 'S2': 'named-expert', 'S3': 'org/media',
+                 'S4': 'anecdotal-pattern', 'S5': 'single-anecdote/social', 'S6': 'consumer-health'}
+        print(f"    {tier} ({label.get(tier, 'unknown')}): {tier_counts[tier]}")
+
+    # Check if file already has a ## Sources section
+    text = filepath.read_text(encoding='utf-8', errors='replace')
+    if '## Sources' in text:
+        print(f"\n  ⚠ File already has a ## Sources section. Not overwriting.")
+        print(f"  Generated section saved to stdout only.")
+        print(f"\n{sources_section}")
+    else:
+        # Append to file
+        with open(filepath, 'a', encoding='utf-8') as f:
+            f.write(f"\n\n{sources_section}\n")
+        print(f"\n  ✓ ## Sources section appended to {filepath.name}")
+
+
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description='Parse Perplexity deep research markdown exports')
+    parser.add_argument('--single', type=str, help='Parse a single file and append ## Sources section')
+    args = parser.parse_args()
+
+    if args.single:
+        single_file_mode(Path(args.single))
+        sys.exit(0)
+
     downloads = Path.home() / "Downloads"
 
     # Find Perplexity deep research exports (recent .md files with source patterns)
