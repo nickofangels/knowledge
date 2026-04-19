@@ -40,3 +40,6 @@
 [submodule "personal-style"]
 	path = personal-style
 	url = https://github.com/nickofangels/knowledge-personal-style.git
+[submodule "b2b-sales"]
+	path = b2b-sales
+	url = https://github.com/nickofangels/knowledge-b2b-sales.git
