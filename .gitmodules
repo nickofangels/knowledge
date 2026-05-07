@@ -43,3 +43,9 @@
 [submodule "b2b-sales"]
 	path = b2b-sales
 	url = https://github.com/nickofangels/knowledge-b2b-sales.git
+[submodule "thrive-market"]
+	path = thrive-market
+	url = https://github.com/nickofangels/knowledge-thrive-market.git
+[submodule "instacart"]
+	path = instacart
+	url = https://github.com/nickofangels/knowledge-instacart.git
