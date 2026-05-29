@@ -1,1 +1,14 @@
+# Transient / OS junk (also covered by the machine's global excludes; listed here so
+# the daily knowledge-sync job never commits them even on a fresh clone).
 .DS_Store
+__pycache__/
+*.pyc
+.claude/worktrees/
+
+# Auto-sync's own logs
+scripts/auto-commit-push.log
+scripts/auto-commit-push-error.log
+
+# In-progress rename of saas-design -> enterprise-design.
+# Not yet a registered submodule — ignore until the rename is finished properly.
+enterprise-design/
