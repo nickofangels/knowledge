@@ -25,9 +25,6 @@
 [submodule "web-development"]
 	path = web-development
 	url = https://github.com/nickofangels/knowledge-web-development.git
-[submodule "saas-design"]
-	path = saas-design
-	url = https://github.com/nickofangels/knowledge-saas-design.git
 [submodule "golf"]
 	path = golf
 	url = https://github.com/nickofangels/knowledge-golf.git
@@ -49,3 +46,6 @@
 [submodule "instacart"]
 	path = instacart
 	url = https://github.com/nickofangels/knowledge-instacart.git
+[submodule "enterprise-design"]
+	path = enterprise-design
+	url = https://github.com/nickofangels/knowledge-saas-design.git

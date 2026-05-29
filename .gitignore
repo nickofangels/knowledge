@@ -8,7 +8,3 @@ __pycache__/
 # Auto-sync's own logs
 scripts/auto-commit-push.log
 scripts/auto-commit-push-error.log
-
-# In-progress rename of saas-design -> enterprise-design.
-# Not yet a registered submodule — ignore until the rename is finished properly.
-enterprise-design/
