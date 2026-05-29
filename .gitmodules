@@ -48,4 +48,4 @@
 	url = https://github.com/nickofangels/knowledge-instacart.git
 [submodule "enterprise-design"]
 	path = enterprise-design
-	url = https://github.com/nickofangels/knowledge-saas-design.git
+	url = https://github.com/nickofangels/knowledge-enterprise-design.git
