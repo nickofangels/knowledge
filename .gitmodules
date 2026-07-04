@@ -49,3 +49,6 @@
 [submodule "enterprise-design"]
 	path = enterprise-design
 	url = https://github.com/nickofangels/knowledge-enterprise-design.git
+[submodule "equipment-leasing"]
+	path = equipment-leasing
+	url = https://github.com/nickofangels/knowledge-equipment-leasing.git
