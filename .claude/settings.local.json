@@ -127,7 +127,9 @@
       "Bash(python3 scripts/commit-study-type-haiku.py personal-health /tmp/study-type-haiku-verified-all.json --apply)",
       "Bash(ls -la /tmp/study-type-*personal-health*.json)",
       "Bash(ls -la /tmp/study-type-retry-batch*-output.json)",
-      "Bash(python3 scripts/commit-study-type-haiku.py personal-health /tmp/study-type-retry-verified-all.json --apply)"
+      "Bash(python3 scripts/commit-study-type-haiku.py personal-health /tmp/study-type-retry-verified-all.json --apply)",
+      "Bash(cd /Users/nickdeangelo/Documents/GitHub/knowledge/equipment-leasing && mkdir -p raw wiki outputs .claude/procedures && ls -la)",
+      "Bash(git -c user.name=nickofangels -c user.email=nickofangels@gmail.com commit -q -m 'Add equipment-leasing submodule *)"
     ]
   },
   "hooks": {
