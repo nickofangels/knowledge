@@ -52,3 +52,6 @@
 [submodule "equipment-leasing"]
 	path = equipment-leasing
 	url = https://github.com/nickofangels/knowledge-equipment-leasing.git
+[submodule "hypothesis-engines"]
+	path = hypothesis-engines
+	url = https://github.com/nickofangels/knowledge-hypothesis-engines.git
